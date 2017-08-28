@@ -1,0 +1,6470 @@
+﻿h1 { font-size: 28px; line-height: 30px; }
+h2 { font-size: 24px; line-height: 26px; }
+
+body {
+    margin:0;
+	background-color: #fff;
+	color: #000;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 0;
+    }
+	
+HR	{ color: #666666; height: 1pt; text-align: left; }
+.Head
+{
+	font-weight: normal;
+	font-size: 24pt;
+	margin-bottom: 15px;
+	color: #005f94;
+}
+#MarketManfs1_lbToggle
+{
+	color: #005f94;
+}
+.LinecardTopLinks
+{
+	margin-bottom: 10px;	
+}
+.Head3
+{
+	color: #000;
+	letter-spacing: 2px;
+	padding-left: 10%;
+	font-weight: bold;
+	padding-top: 20px;
+}
+.Head5
+{
+	color: #FFF;
+	letter-spacing: 2px;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: top;
+	background-color: #005f94;
+	padding: 5px;
+}
+.Head4
+{
+	color: #333333;
+	letter-spacing: 2px;
+	font-weight: bold;
+	padding-top: 20px;
+	font-size: 21px;
+	line-height: 23px;
+}
+.PagerLabel {
+	font-size: 11pt;
+	font-weight: lighter;
+	color: #06C;
+}
+.H1Link {color: #06C;}
+A	{
+	color: #005f94;
+	text-decoration: underline;
+}
+
+A:hover
+	{
+	text-decoration: underline;
+	color: #fecc6b;
+}
+
+.ProductSpecsItem
+{
+	vertical-align: top;      
+}
+
+/********************** CDI Input, Select, and Button fonts ***********************/
+	input[type=submit] {
+	/**color: #FFF;
+	font-weight: bold;
+	padding: 3px;
+	background-color: #005f94;
+	font-size: 12px;
+	line-height: 15px;
+	font-family: Arial, Helvetica, sans-serif;**/
+    }
+.textInput {
+}
+select {
+
+}
+button 
+{
+
+}
+/********************** CDIPortal Classes ***********************/
+.SearchFrame
+{
+	float: left;
+	width: 100%;
+	position: relative;
+}
+.LeftPane
+{
+	 
+
+}
+
+/************footer***************/
+.FooterContainer
+{
+
+}
+.col-long
+{
+	float: left;
+	width: 100%;
+	border-top-width: thin;
+	border-top-style: solid;
+	border-top-color: #FFF;
+	padding-top: 15px;
+}
+.col-long td
+{
+	color: #FFF;
+	font-size: 9.5pt;
+	font-weight: normal;
+}
+.col-long a
+{
+	color: #FFF;
+}
+.col-long a:hover
+{
+	color: #fecc6b;
+	text-decoration: underline;
+}
+.col-social 
+{
+	float: right;
+	padding-left: 2%;
+	padding-top: 2%;
+}
+.featured-products td
+{
+	padding: 3px;
+	font-size: 1em;	
+}
+.featured-products
+{
+
+}
+.featured-resources
+{
+
+}
+.col-mid-heading
+{
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #000;
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 23px;
+	letter-spacing: 2px;
+}
+.col-mid
+{
+	float: left;
+	background-color: #FFF;
+	border: thin solid #CCC;
+	margin-left: 0.80%;
+	margin-right: 0.80%;
+	text-align: left;
+	vertical-align: top;
+	padding: 10px;
+	font-size: 14px;
+}
+.col-mid h5
+{
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #000;
+	font-size: 16px;
+	letter-spacing: 2px;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #005f94;
+	padding-bottom: 10px;
+	margin-top: -2px;
+	text-align: center;
+	vertical-align: middle;
+}
+.col-mid-container
+{
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+	vertical-align: middle;
+	max-width: 1024px;
+}
+.Col-2
+{
+	float: left;
+	padding-right: 10%;
+	clear: both;
+	font-size: 10pt;
+	color: #CCC;
+	padding-top: 10px;
+}
+.Col-1
+{
+
+}
+
+.Col-1 ul li
+{
+	list-style-type: none;
+}
+.Col-1 ul
+{
+    margin-left: 0;
+ 	padding-left: 0;	
+	list-style-position: inside; 
+}
+.Col-1 h3
+{
+	color: #FFF;
+	font-size: 13pt;
+	font-weight: bold;
+}
+.Col-1 h2
+{
+	color: #FFF;
+	font-size: 13pt;
+	font-weight: bold;
+}
+.Col-1 li 
+{
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+.Col-1 li a
+{
+	color: #CCC;
+	font-weight: normal;
+	list-style-type: none;
+	font-size: 11pt;
+	letter-spacing: 1px;
+}
+.Col-1 li a:hover
+{
+	color: #fecc6b;
+	font-weight: normal;
+	text-decoration: underline;
+}
+.FooterPanelDiv {
+
+}
+.footer-background {
+	background-color: #005f94;
+	color: #FFF;
+	padding-right: 2%;
+	padding-left: 2%;
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
+.footer-background a {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.footer-background a:hover {
+	color: #fecc6b;
+}
+.footer-background h3 {
+	color: #fecc6b;
+}
+.footerTagline {
+
+}
+.FooterToolbar {
+	float: left;
+}
+.footer-links
+{
+	
+}
+.col-sm-2{
+	margin-left: 0;
+	float: left;
+	padding-right: 5%;
+}
+.col-sm-2a{
+	float: left;
+	width: 23px;
+	margin-right: 30px;
+}
+.col-sm-2 li a{
+
+}
+.addthis_toolbox{}
+.addthis_default_style{}
+.addthis_button_preferred_1{}
+.addthis_button_preferred_2{}
+.addthis_button_preferred_3{}
+.addthis_button_preferred_4{}
+.addthis_button_compact{}
+.addthis_counter{}
+.addthis_bubble_style{}
+/*****************************************/
+.header1
+{
+    font-size: 14pt;
+    font-weight: bold;
+    color: #000;
+}
+.NavHeader1
+{
+    font-weight: bold;
+    color: #000;
+}
+
+.header2
+{
+    font-weight: bold;
+    color: #1453bc;        
+}
+.NavigationTabOuterDiv
+{
+	float: right;
+	width: 80%;
+	margin-top: -40px;
+	clear: both;
+}
+.SiteHeader
+{
+	max-width:100%;
+	padding-left:10%;
+	padding-right:10%;
+	background-color: #FFF;
+}
+.HeaderTemplateMainDiv
+{
+	background-color: #252525;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	margin-bottom: 5px;
+	padding: 15px;
+	min-width: 375px;
+}
+.HeaderTemplateMainDiv a
+{
+	color: #E0E0E0;
+}
+.HeaderTemplateMainDiv a:hover
+{
+	color: #E0E0E0;
+	text-decoration: underline;
+}
+.Logo
+{
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	float: left;
+}
+.HeaderTemplateImage
+{
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+.header-top-links {
+	margin:0;
+	padding:24px 0px 24px 40px;
+	font-size:24px;
+	color:#435363;
+	padding-left:30px;
+	background:none;
+	text-decoration: none;
+}
+
+.LoginInfo
+{
+    float:right; 
+    width:830px; 
+    text-align:right; 
+    margin-top:0px; 
+    padding-right:15px;
+}
+.goButton 
+{
+    width: auto;    
+    font-weight: bold;    
+}
+.HeaderTemplateWelcomeMessageLabel
+{
+	color: #FFF;
+	margin-left: 15px;
+	padding-right: 30px;
+}
+#WelcomeMessage
+{
+	
+}
+.SignIn
+{
+	float: left;
+	margin-top: 7px;
+	padding-left: 10px;
+}
+
+.LogONOFF 
+{
+
+}
+.LogONOFFCart
+{
+	float: left;	/*float:left;
+	clear: right;
+	padding-right: 10px;
+	border-right-width: thin;
+	border-right-style: solid;
+	border-right-color: #999;
+	padding-left: 10px;
+	margin-top: 5px;*/
+}
+.LogONOFFCart a
+{
+	color: #4d4f50;	
+}
+.LogONOFF2 a
+{
+	float:left;
+	padding-top: 7px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	color: #4d4f50;
+}
+.LogONOFF4 a
+{
+	float:left;
+	padding-top: 7px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	color: #4d4f50;
+}
+.LogONOFF3 a
+{
+	float:left;
+	margin-top: 20px;
+	height: 16px;
+	padding-top: 7px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	color: #666666;
+	margin-right:  0px;
+	/*gradient */
+}
+.CartHeader 
+{
+	float: left;
+	margin-top: 28px;
+	height: 25px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	color: #034fbe;
+	margin-right:  0px;
+	/*gradient */
+}
+.tableauCart
+{
+	width: 100%;
+	border: thin solid #CCC;
+}
+.tableauCart td
+{
+	padding: 2px;
+}
+.CartHeader a
+{
+	color: #104ca7;	
+}
+.OrderStatusHeader
+{
+	float: left;
+	margin-top: 28px;
+	height: 25px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	color: #034fbe;
+	margin-right:  0px;
+	/*gradient */
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	-webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.3), 0 1px 1px rgba(0,0,0,.4);
+	-moz-box-shadow: inset 0 1px 0 rgba(255,255,255,.3), 0 1px 1px rgba(0,0,0,.4);
+	box-shadow: inset 0 1px 0 rgba(255,255,255,.3), 0 1px 1px rgba(0,0,0,.4);
+	border: 1px solid #003399;
+	}
+	.OrderStatusHeader a
+{
+	color: #104ca7;	
+}
+.breadcrumb
+{
+	visibility:hidden;
+	height: 0px;
+	width: 0px;	/*margin-top: -20px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	padding-left: 2%;
+	background-color: #eeeeee;
+	color: #005f94;
+	border-radius: 0 !important;
+	-moz-border-radius: 0 !important;*/
+}
+.BCT
+{
+	/*margin:0px;
+	height:5px;   */
+}
+.BCB
+{
+	/*margin:0px;
+	height:5px;*/
+}
+.breadcrumbs
+{
+	visibility:hidden;
+	height: 0px;
+	width: 0px;
+	/*max-width: 1024px;
+	margin-left:auto;
+	margin-right:auto;
+	max-height: 15px;
+	margin-top: 25px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 32px;
+	white-space: normal;*/
+}
+
+.btnBackGround
+{
+	width:50px;
+	height:16px;
+	border:0px;
+}
+/*** Text and Title Classes ***/
+.NormalSmall
+	{  }
+
+.NormalLarge
+	{ font-size: 12px; }
+
+.NormalBold
+	{ font-weight: bold; }
+
+.NormalBoldTall
+	{
+	     font-weight: bold; 
+	     line-height: 20px;
+	}
+.Validation
+	{ font-weight: bold; color: red; }
+
+.ErrorMsg
+	{
+	font-weight: bold;
+	background-color: white;
+	color: red;
+}
+
+.ServerError
+	{ font-size: 12px; font-weight: bold; color: red; }
+.LineHead
+{
+	background-color: #4d4f50;
+	font-size: 14px;
+	font-weight:bold;
+	padding:3px;
+	margin-bottom:5px;
+	color: #FFF;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+.LineHead a
+{
+	color: #FFF;
+}
+.line-hr
+{
+	color: #999;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.CombinedNameDes
+{
+	width: 100%;
+	padding-top: 3px;
+	padding-bottom: 6px;
+	white-space: normal;
+}
+.Manf-Description
+{
+	white-space: normal;
+}
+.Manf-Name a
+{
+font-weight: bold;
+}
+.Header
+{
+	color: #000000;
+	text-align: left;
+}
+.Header a
+{
+    font-weight:bold;
+    color:White;
+}
+.NewsHeader
+{
+    background-color:#efefef;
+    font-weight:bold;
+    font-size:10pt;
+    padding:3px;
+}
+.RssItem
+{
+    padding:10px;
+    width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:left;
+}
+.RssModulePanel
+{
+	text-align:left;
+	margin-left: 10px;
+}
+.RssSummary
+{
+    padding:10px;
+    width:800px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:left;
+    
+}
+RssContent
+{
+    text-align:center;
+}
+.RSSReaderItem
+{
+	border-bottom:solid 1px #dcdddd;
+	padding: 5px;
+}
+.RssItem h2
+{
+    font-size:12pt;
+}
+.RSSReaderItem h4
+{
+    font-size:10pt;
+}
+.RssPanel
+{
+    text-align:left; 
+    padding:4px;
+}
+.SubHead
+	{ font-size: 11px; font-weight: bold; color: #000; }
+
+.ControlHead
+	{ 
+	font-size: 18px; 
+	line-height: 20px;
+	color: #005f94;
+	}
+	
+.ManfNavItem
+{
+    background-color: #eeeeee;
+    font-weight: bold;
+    padding:2px;
+    border:solid 1px white;
+    border-top-width:0px;
+    
+    	
+}
+.ManfNavHeaderLink
+{
+	margin-top:5px;
+}
+
+.Title
+	{ font-weight: bold; font-size: 16px; line-height: 18px; }
+
+.NavMenuTitle
+	{ font-size: 12px; font-weight: Bold; color: #666666; }
+
+.EwaveTitle 
+	{ font-size: 16px; font-weight: bold; line-height: 16px ! important; }
+
+.EwaveLeadIn
+	{ font-size: 13px; color:#666666; font-weight: bold; line-height:13px ! important; }
+
+.ProductNav
+{
+	background-color: #e1e9f1;
+	
+}
+.ProductNotes
+{   
+    border-bottom:1px;
+    border-bottom:solid;
+    border-left:1px;
+    border-left:solid;
+    border-right:1px;
+    border-right:solid;
+    border-color:ActiveBorder;
+    border-style:solid;
+}
+
+/*** Table Classes ***/
+.TableHeaderPromo
+	{
+	background:#005f94;
+	color: #FFF;
+	font-weight: bold;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding: 8px;
+	text-align: center;
+	vertical-align: top;
+	margin-bottom: 10px;
+}
+.TableHeader
+	{
+	background:#005f94;
+	color: #FFF;
+	font-weight: bold;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding: 8px;
+	text-align: center;
+	vertical-align: top;
+	width: 100%;
+}
+.TableHeader th
+	{
+	text-align: center;
+	vertical-align: top;
+	padding-top: 3px;
+}
+.TableHeaderPaw
+	{
+	background:#005f94;
+	color: #FFF;
+	font-weight: bold;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding: 8px;
+	text-align: center;
+	vertical-align: top;
+	width: 100%;
+}
+.TableHeaderPaw th
+	{
+	text-align: center;
+	vertical-align: top;
+	padding: 3px;
+}
+.TableHeader2
+	{
+	background:#005f94;
+	color: #FFF;
+	font-size: 14px;
+	line-height: 16px;
+	font-weight: bold;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding: 8px;
+}
+.TableHeader a
+	{
+	color:#FFFFFF;
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 16px;
+}
+.TableHeader a:hover
+	{
+	color:#fecc6b;
+	text-decoration: none;
+}
+.TableHeaderPaw a
+	{
+	color:#FFFFFF;
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 16px;
+}
+.TableHeaderPaw a:hover
+	{
+	color:#fecc6b;
+	text-decoration: none;
+}
+.TableHeaderCell
+{
+    padding-top:11px;
+}
+
+.TableItem
+	{
+	background-color: #FFFFFF;
+	
+	 }
+.TableAltItem
+	{ 	
+	background-color: #eeeeee;
+	}
+	
+.TableItem2
+{
+    background-color: #eeeeee;
+}
+.TableAltItem2
+{
+    background-color: #eeeeee;
+}
+
+.TableItemCentered
+	{
+	background-color: #FFFFFF;
+	text-align:center;
+	
+	 }
+
+.TableAltItemCentered
+	{ 	
+	background-color: #eeeeee;
+	text-align:center;
+	}
+	
+.TableSelectedItem
+	{ background-color: #eeeeee; }
+
+.TablePager
+	{  background-color: #eeeeee; font-weight:bold; border-color: Black; }
+
+.TableVerticallySpaced
+	{ padding: 9px 3px 9px 3px; }
+
+.TableCellPadded
+	{ padding: 3px 3px 3px 3px; }
+
+.TableBarTitle
+{
+	color: #FFF;
+	font-size: 12pt;
+	font-weight: normal;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #005f94;
+	font-weight: bold;
+	padding: 5px;
+	width: 100%;
+}
+.HeaderLabel
+{
+
+}
+
+/*** Navigation Classes ***/
+
+.SiteLink {
+
+
+}  
+.SiteLink a {
+} 
+.TextFieldSearch
+{
+    margin-top: -3px;
+}  
+.ImageButton
+{
+	margin-top: -2px;
+}  
+
+A.SiteLink:link, A.SiteLink:visited
+	{
+		
+		}
+
+A.SiteLink:active, A.SiteLink:hover
+	{
+
+} 
+
+A.SiteLinkUpdated:link, A.SiteLinkUpdated:visited
+	{
+	color: #FFF;
+}
+
+A.SiteLinkUpdated:active, A.SiteLinkUpdated:hover
+	{
+	text-decoration: underline;
+	color: #CCC;
+}
+
+.HeaderLink
+	{
+	font-weight: normal;
+	text-decoration: underline;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 12pt;
+	color: #005f94;
+	}
+	.category-divider
+	{
+	border: thin solid #CCC;
+	margin: 10px;
+	padding: 3px;
+	float: left;
+	position: relative;
+	width: 180px;
+	text-align: center;
+	vertical-align: middle;
+	height: 168px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	background-color: #eeeeee;
+	clear: right;
+	}
+	.category-divider img
+	{
+	height: 110px;
+	width: auto;
+	max-width: 160px;
+	text-align: center;
+	vertical-align: middle;
+	padding: 5px;
+	}
+	.category-divider-summary
+	{
+	text-align: center;
+	vertical-align: middle;
+	padding: 3px;
+	margin-top: 0px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	height: 50px;
+	width: 180px;
+	overflow-y: auto;
+	clear: both;
+	float: left;
+	}
+	.ProductImages img
+	{
+	height: 115px;
+	width: auto;
+	max-width: 115px;
+	margin-top: 5px;
+	text-align: center;
+	vertical-align: middle;
+    }
+	.ProductImages
+	{
+	
+    }
+	.Products-Combined
+	{
+	border: thin solid #CCC;
+	margin: 10px;
+	padding: 5px;
+	width:175px;
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+	height: 175px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	background-color: #eeeeee;
+	white-space: normal;
+	position: relative;
+    }
+	.ProductLinks
+	{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 10pt;
+	line-height: 12pt;
+	font-weight: bold;
+	white-space: normal;
+    }
+	.ProductTypeList
+	{
+	width: 100%;	
+    }
+	.ManufacturerCategoriesItem a:hover
+	{
+	color: #fecc6b;
+	}
+	
+#plRSSPromo
+{
+		
+	}
+.CommandButton
+	{ padding:5px 5px 5px 5px; }
+
+A.CommandButton:link, A.CommandButton:visited
+	{  }
+
+A.CommandButton:active, A.CommandButton:hover
+	{
+	border-width:thin;
+	border-color:Black;
+	color: #fecc6b;
+	text-decoration: underline;
+	}
+
+A.NavMenuTitle:link, A.NavMenuTitle:visited
+	{ color: #004080; }
+
+A.NavMenuTitle:active, A.NavMenuTitle:hover
+	{ color: #989da5;	text-decoration: underline; }
+
+
+
+/*** Tab Classes ***/
+.Tabbar
+{
+visibility:hidden;
+}
+.Tabview
+{
+float: left;
+}
+.TabBg	{
+	background-color: #FF0;	/*height: 40px;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-transform: uppercase;*/
+	}
+.TabBg a	{
+	/*color: #004080;*/
+	}
+.TabBg a:hover	{
+	/*color: #9a1406;*/
+	}
+.OtherTabsBg
+	{
+	/*font-weight: bold;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-transform: uppercase;*/
+	}
+
+/*.SelectedTab
+	{
+		color: #98BDEB;
+}
+
+A.SelectedTab:link, A.SelectedTab:visited
+	{
+
+}
+
+A.SelectedTab:active, A.SelectedTab:hover
+	{
+color: #98BDEB;
+}
+
+.OtherTabs
+	{
+}
+
+A.OtherTabs:link, A.OtherTabs:visited
+	{
+
+	  }
+
+A.OtherTabs:active, A.OtherTabs:hover
+	{
+	}
+*/
+.SubTabsBg
+	{
+	border-left-color: black;
+	border-bottom-color: black;
+	border-top-color: white;
+	border-right-color: black;
+	border-top-width: 3px;
+	background-color: #e1e9f1;
+	font-weight: bold;
+	color: black;
+	}
+
+.SubTabBox
+	{
+	border-left-color: black;
+	border-bottom-color: black;
+	border-top-color: black;
+	border-right-color: black;
+	}
+
+.SubSelTabBg
+	{
+	border-left-color: black;
+	border-bottom-color: black;
+	border-top-color: white;
+	border-right-color: black;
+	border-top-width: 14px;
+	background-color: #cccccc;
+	color: black;
+	}
+
+.SubSelTab
+	{ color: White; font-weight: bold; }
+
+.SubOtherTabs
+	{ color: black; font-weight: bold; }
+
+A.SubOtherTabs:link, A.SubOtherTabs:visited
+	{ color: black;	text-decoration: none; }
+
+A.SubOtherTabs:active, A.SubOtherTabs:hover
+	{ color: black;	text-decoration: none; }
+
+/*****SiteSearch****/
+
+.SiteSearch
+{
+	color: #FFFFFF;
+	margin-right:  0px;
+	/*gradient */
+	background-color: #FFF;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	-webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.3), 0 1px 1px rgba(0,0,0,.4);
+	-moz-box-shadow: inset 0 1px 0 rgba(255,255,255,.3), 0 1px 1px rgba(0,0,0,.4);
+	box-shadow: inset 0 1px 0 rgba(255,255,255,.3), 0 1px 1px rgba(0,0,0,.4);
+	border: 1px solid #fff;
+	width: 415px;
+	float: left;
+	background-image: url(http://www.connect-components.com/images/SiteSearchBackground2a.jpg);
+	background-repeat: repeat-x;
+	margin-top: 28px;
+	height: 25px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	}
+	
+	.SiteSearchFont
+	{
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #FFF;
+	padding-left: 5px;
+	}
+	
+	.AdvancedSearch
+	{
+	visibility:hidden;
+	height: 0px;
+	width: 0px;
+	}
+/*****Other Design Classes****/
+
+.ContentArea
+{
+   border:2px gray groove;
+   Width:420px;
+   float:left;
+}
+
+.PawBottemBar
+{
+     float:left;
+     width:100%; 
+     min-width:1105px; 
+     padding-bottom:10px;
+}
+/********AJAX******/
+.modalBackground {
+	background-image: url('http://www.connect-components.com/PortalImages/PopUpBackground.png');
+    background-repeat: repeat-x; 
+    background-repeat: repeat-y;
+}
+
+.modalPopup {
+	background-color:#FFFFFF;
+	border-width:1px;
+	border-style:solid;
+	border-color:Gray;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	/* box shadow */
+	-webkit-box-shadow: 0 3px 5px rgba(0,0,0,.4);
+	-moz-box-shadow: 0 3px 5px rgba(0,0,0,.4);
+	box-shadow: 0 3px 5px rgba(0,0,0,.4);
+	padding: 15px;
+	min-width: 500px;
+	max-width: 800px;
+	min-height: 150px;
+	max-height: 800px;
+	overflow-y: scroll;
+	z-index: 200;
+}
+/********Featured Products******/
+
+.FeaturedProductsGrid 
+{
+    margin-left: 10px; 
+    width:1024px    
+}
+.FeaturedProductsAvailColumn a
+{
+	color: #005f94;
+	text-decoration: none;
+}
+.FeaturedProductsAvailColumn a:hover
+{
+	text-decoration: underline;
+}
+.PartSearchGrid 
+{
+
+}
+.CheckoutCart
+{
+    margin-left: 30px; 
+    margin-top: 25px;
+}
+.FrameSignon
+{
+	max-width: 600px;
+	min-width: 600px;
+	border: thin solid #999;
+	background-color: #FFF;
+	margin-left: 20%;
+	padding: 20px;
+}
+.FrameSignon td
+{
+	padding: 5px;
+}
+.FrameSignon input
+{
+	padding: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+.PartSearchHead 	
+{
+	background-color: #eeeeee;
+	font-size: 18px;
+	line-height: 26px;
+}
+.PartSearch	
+{
+	color: #FFF;
+}
+.TopLinksHeader
+{
+	float: right;
+	padding-bottom: 10px;
+	white-space: nowrap;
+	padding-top:4px;
+	margin-top: 3%;
+}
+.TopLinksHeader a
+{
+	font-size: 17px;
+	color: #005f94;
+	font-weight: bold;
+	padding-right: 15px;
+}
+.TopLinksHeader a:hover
+{
+	color: #fecc6b;
+	text-decoration: underline;
+}
+.LogONOFFCartOrderStatus
+{
+	visibility:hidden;
+	height: 0px;
+	width: 0px;
+}
+.HeaderTemplateCartDiv
+{
+	float:left;
+}
+.CartInnerDiv
+ {
+
+}
+.CartInnerDiv a
+ {
+	
+}
+.HeaderTemplateOrderStatusOuterDiv
+{
+	float:left;
+	width: 125px;
+}
+.HeaderTemplateLogONOFFOuterDiv
+{
+	
+}
+.PortalOrderStatus 
+{
+	padding: 10px;
+	clear: both;
+	float: left;
+	position: relative;
+	width: 100%;
+}
+
+.OnlineStoreSupport
+{
+	padding-left: 10%;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	color: #000;
+	padding-right: 10%;
+	width: 80%;
+}
+.sidebar_title
+{
+	background-color: #005f94;
+	font-weight: bold;
+	color: #FFF;
+	padding: 5px;
+	margin-top: 15px;
+}
+.OnlineStoreSupportBox
+{
+	background-color: #FFF;
+	border: thin solid #CCC;
+	padding: 15px;
+}
+.ProductDetail
+{
+	margin-left: 10%;
+}
+.ProductDetailLink
+{
+	font-weight: bold;	
+}
+.middleTechnicalInq
+{
+}
+#plCheckout
+{
+	width: 100%;
+}
+.TopCartContent
+{
+	margin-left: 10%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.tableauCart
+	{
+	width: 100%;
+	border: 1px solid #CCC;
+	padding: 5px;
+	margin-top: 10px;
+	}
+	.tableauCart td
+	{
+	padding: 3px;
+	}
+/************  Tool Bar Styles ************/
+.rbl input[type="radio"]
+{
+    margin-left: 25px;
+    margin-right: 10px;
+    vertical-align: bottom;
+    font-weight: bold;        
+}  
+
+.radio 
+{
+    width: 19px;
+    height: 25px;
+    padding: 0 5px 0 0;  
+    display: block;
+    clear: left;
+    float: left;
+}
+.FPFirstHeaderRow
+{
+	text-align: center;
+	vertical-align: top;
+	height: 55px;
+}
+.FPFirstHeaderRow a
+{
+	text-decoration: underline;
+	text-align: center;
+	vertical-align: top;
+}
+.ProductDescriptionHeader
+{
+	color: #FFFFFF;
+	text-align: center;
+	vertical-align: text-top;
+	padding-top: 5px;
+}
+
+.FPSecondHeaderRow
+{
+	text-align: center;
+	vertical-align: middle;
+	padding-bottom: 5px;
+}
+.FeaturedProductsDDL
+{
+	text-align: left;
+	text-wrap: normal;
+	width: 60px;
+	margin-top: 5px;
+	margin-left: 5px;
+	color: #000;
+}
+.FeaturedProductsTable
+{
+	border: 1px solid #CCC;
+	padding: 3px;
+	width: 100%;
+	margin-bottom: 15px;
+}
+.FeaturedProductsTable td {
+	border: thin solid #CCCCCC;
+	padding: 3px;
+ }
+.FeaturedProductsTable th {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #BEBEBE;
+}
+#lblDatasheet
+{
+	text-align: center;
+	vertical-align: middle;	
+}
+
+.FPSingleRow 
+{
+	text-align: center;
+	vertical-align: top;
+	color: #004080;  
+	padding-top: 5px;
+}
+.FPNavigationRow 
+{
+	font-weight:normal;
+	font-size: 11px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 10px;
+}
+.ToggleCell
+{
+	font-weight: bold;
+	height: 36px;
+}
+.TechInquiryCell 
+{
+ 	padding-right: 5px;
+	padding-top: 5px;
+	padding-left: 5px;
+	margin-bottom: 10px;
+}
+.ParametricSearch {
+	padding-right: 5px;
+	padding-top: 5px;
+	margin-bottom: 10px;
+}
+
+.SelectedFunctionCell
+{
+	padding-right: 5px;
+	float: left;
+	clear:right;
+	padding-top: 5px;
+	margin-left: -140px;	
+}
+.select 
+{
+    position: absolute;
+    width: 158px;
+    height: 21px;
+    padding: 0 24px 0 8px;
+    color: #fff;
+    background: url(http://www.connect-components.com/css/select.png) no-repeat;
+    overflow: hidden;
+}
+
+
+/************  Team Main Styles ************/
+.TeamMainTable 
+{
+	width: 100%;
+	float: left;
+	padding-top: 20px;
+}
+.TeamMainRow 
+{
+    height: auto;
+}
+.TeamMainCellFarLeft 
+{
+    width: 5px;    
+}
+.TeamMainCellFarRight 
+{
+    width: 10px;    
+}
+
+.TeamMainLeftPane
+{
+    width: 230px;
+}
+
+.TeamMainContentPane
+{
+    width: auto;
+}
+ 
+.TeamMainRightPane
+{
+    width: 230px;
+} 
+
+/*******     Portal Product Grid ************/     
+
+/******* Cart ************/
+.CartNoItemsMessage
+{
+    text-align:center; width:600px;
+}
+.phoning 
+{
+    
+}
+.phoningMessage 
+{
+    
+}
+.CartDiv
+{
+    margin-left: 30px;margin-top: 25px;
+}
+.CartButtonsTopRow
+{
+    padding: 5px;
+}
+.shopping
+{
+    
+}
+.checkout
+{
+    margin-left: 450px;
+}
+.CartButtonsBottomRow
+{
+    padding: 5px;
+}
+.QuoteCartDiv
+{
+    margin-left: 30px;margin-top: 25px;    
+}
+.ValidationSum
+{
+    font-weight: bold;
+    color: black;
+}
+
+.ValidationRow
+{
+    text-align:center; display:none; border-width:0px; background-color:Transparent;color: White;
+}
+.colDescriptionCartHead
+{
+    horiz-align: left;
+}
+.colDescriptionCart
+{
+    horiz-align: left;
+    vertical-align: middle;
+}
+.colDescriptionHead
+{
+    horiz-align: left;
+}
+.colDescription
+{
+    horiz-align: left;
+    vertical-align: middle;
+}
+
+.colSampleHead
+{
+    horiz-align: center;
+    vertical-align: middle;
+}
+.colSample 
+{
+    horiz-align: center;
+    vertical-align: middle;
+}
+.colAvailablilityCartHead
+{
+    horiz-align: left;
+}
+.colAvailablilityCart 
+{
+    horiz-align: left;
+}
+.colAvailablilityHead
+{
+    horiz-align: left;
+}
+.colAvailablility 
+{
+    horiz-align: left;
+}
+.colUnitPriceHead
+{
+}
+.colUnitPrice 
+{
+    horiz-align: right;
+    vertical-align: middle;
+}
+.colTargetPriceHead
+{
+}
+.colTargetPrice 
+{
+    horiz-align: right;
+    vertical-align: middle;
+}
+.textTargetPrice 
+{
+    text-align: right;    
+}
+.colTotalHead
+{
+    text-wrap: none;
+}
+.colTotal 
+{
+    horiz-align: right;
+    vertical-align: middle;
+    text-wrap: none;
+}
+.colEAUHead 
+{
+    
+}
+.colEAU 
+{
+    
+}
+.textEAU
+{
+    text-align:right;
+}
+.delete
+{
+    
+}
+.textDescription 
+{
+    font-style: italic;    
+}
+.CartAvailabilityTable
+{
+padding: 5px;
+}
+.CartDescriptionParagraph
+{
+    padding:5px; margin: 0px;
+}
+
+.FeaturedProductsPriceColumn {
+	text-align:center;
+	vertical-align: middle;
+}
+.FeaturedProductsPriceColumn a {
+	color: #005f94;
+	text-decoration: none;
+}
+.FeaturedProductsPriceColumn a:hover {
+	color: #fecc6b;
+}
+.FeaturedProductsPriceHeader {
+    
+}
+
+/******** Compare products *********/
+.CompareProductProductDetailsDiv {    height: 140px;    padding-bottom: 27px;}
+.CompareProductSpecificationDetail {    width: 300px}
+.SpecificationDetailHeader {float:left; clear:right; padding-top: 5px;  padding-left: 5px}
+.SpecificationDetailItem 
+{width:50%; float:left}
+
+.CheckoutValidtion { font-weight: bold;color: red;}
+
+/********* Category Summary Page ******************/
+.CatSumSearchHyperlinkDiv {}
+.CatSumSearchHyperlink {
+	line-height: 20px;
+	float:left;
+	font-weight:bold;
+	height:30px;
+	margin:0;
+	padding:0;
+	border-left:none;
+	text-transform:uppercase;
+	font-size:12px;
+	color: #262626;
+	}
+
+/*** Categories Spec Grid ***/
+.CatSumTable {
+	border: 1px solid #CCC;
+	padding: 3px;
+	width: 100%;
+	margin-bottom: 15px;
+	text-align: center;
+}
+.CatSumTable td {
+	border: thin solid #CCCCCC;
+	padding: 3px;
+}
+.CatSumTable th {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #BEBEBE;
+	text-align: center;
+}
+.CatSumTableItem {
+	background-color: #FFFFFF;
+	color: #4d4f50;
+	width: 125px;
+}
+.CatSumTableAltItem {
+	background-color: #F9F9F9;
+	color: #4d4f50;
+
+}
+.CatSumImageColumn { 
+text-align: center;
+}
+.CatSumImageColumn img { 
+	height: auto;
+	width: 125px;
+	text-align: center;
+	vertical-align: middle;
+}
+.CatSumProductLinkParagraph {
+	text-align:center;
+	font-weight: bold;
+	color: #4d4f50;
+}
+.CatSumProductLinkParagraph a {
+	color: #005f94;	
+}
+.CatSumProductLinkParagraph a:hover {
+	color: #fecc6b;	
+}
+.CatSumProductLink { color:#666666; }
+.CatSumProductLink a { color:#666666; }
+.CatSumTablePager { background-color: #eeeeee; font-weight:bold; border-color: Black; }    
+.CatSumTableSelectedItem { background-color: #eeeeee; }
+.CatSumTableHeader {
+	background-color: #005f94;
+	font-weight:bold;
+	text-align:center;
+	color: #FFF;
+	vertical-align: middle;
+}
+.CatSumTableHeader th {
+	font-weight:bold;
+	text-align:center;
+	vertical-align: middle;
+	padding: 3px;
+}
+.CatSumTableHeader a {
+	color: #FFF;
+	text-decoration: underline;
+}
+.CatSumTableHeader a:hover {
+	color: #fecc6b;
+	text-decoration: underline;
+}
+.submitmsg{ background: #eeeeee; border: 1px solid blue; padding: 0px; color: #696969; width:400px; vertical-align:middle; }
+.TableHeaderTechInquiry1
+{
+	color: #FFF;
+	font-size: 14pt;
+	font-weight: bold;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding-right: 8px;
+	padding-left: 8px;
+	background-image: url(http://www.connect-components.com/images/bg-gradient-2.jpg);
+	background-repeat: repeat-x;
+	height: 43px;
+	text-align: left;
+	vertical-align: middle;
+	margin-top: 0px;
+}
+.TableHeaderTechInquiry2 {
+	margin-bottom: 15px;
+	font-weight: normal;
+	font-size: 24pt;
+	margin-top: 15px;
+}
+.ContactForm 
+{
+	background-color: #FFF;
+	padding: 15px;
+	width: 80%;
+	border: thin solid #CCC;
+}
+.SpecsForm 
+{
+	background-color: #005f94;
+	padding: 5px;
+	width: 80%;
+	font-weight: bold;
+	color: #FFF;
+}
+.ContactForm input
+{
+	margin-top: 3px;
+	margin-right: 3px;
+	margin-bottom: 3px;
+}
+.ContactForm select
+{
+	margin-top: 3px;
+	margin-right: 3px;
+	margin-bottom: 3px;
+}
+.AddressForm
+{
+	background-color: #FFF;
+	padding: 15px;
+	width: 80%;
+	border: thin solid #CCC;
+}
+.SubmitTechForm
+{
+	background-color: #FFF;
+	padding: 15px;
+	width: 80%;
+	border: thin solid #CCC;
+}
+.DesignInfo
+{
+	
+}
+#partNumDescription
+{
+	text-align: left;
+}
+.PartHyperLink {
+	color: #005f94;
+	text-decoration: underline;
+	font-weight: bold;
+	text-align: left;
+}
+.PartHyperLink:hover{
+	text-decoration: underline;	
+}
+.TopForm
+{
+	text-align: left;
+	background-color: #EAEAEA;
+	width: 50%;
+}
+.BottomForm 
+{
+	text-align: left;
+	clear: both;
+	float: left;
+}
+.ContactInfoContainer
+{
+	float: left;
+	width: 50%;
+}
+.AddressInfoContainer2
+{
+	float: left;
+	width: 50%;
+}
+.SubscribeNewsletter
+{
+	float: left;
+	width: 40%;
+	clear: both;
+}
+.ManufacturerDescriptionSpan { }
+.ManufacturerDescriptionParagraph {
+	margin-top: 15px;
+}
+
+.CartHeaderImage
+{
+	float: left;
+	margin-left: 10px;
+	height: 20px;
+	width: 30px;
+}
+.LabelStyle
+{
+	font-weight: bold;	
+}
+.ManufacturerSubHeader {
+	margin-top: -15px;
+	font-size: 24px;
+	line-height: 40px;
+	color: #fecc6b;
+}
+.MarketsSubHeader {
+	color: #4d4f50;	/* visibility: hidden;
+	height: 0px;*/
+	margin-top: -15px;
+}
+.MarketsSubHeader2 {
+	color: #4d4f50;	/* visibility: hidden;
+	height: 0px;*/
+	margin-top: 10px;
+	margin-bottom: 25px;
+}
+.DropDownNavControl{
+	float: right;
+	margin-bottom: 15px;
+	margin-top: -5px;
+}
+
+/* ManufacturerDescription */
+.ManufacturerDescriptionControlDiv {
+	margin-top:10px;
+	display: inline;
+}
+
+.ManufacturerDescriptionDiv {  
+
+}
+.ManufLogoParagraph { margin:0px; float:left; margin-right:5px}
+.ManufacturerDescriptionImage {
+	height: auto;
+	max-width: 200px;
+}
+.ProductTypeHeaderTopDiv {
+	margin-top: 0px;
+	position: relative;
+	margin-left: 20px;
+ }
+
+.PanelProdTypeContent {
+	margin-bottom: 15px;
+	min-height: 150px;
+	margin-top: 15px;
+}
+.TitlePanel
+{
+	clear: both;
+	float: left;
+	margin-top: -20px;
+}
+
+/************** CHROME STYLE *****************/
+.fileInputDiv{
+    position: relative;    
+}
+
+.fileInput{
+     height: 22px; margin-right: 15px; border: 1px solid #777; 
+  float: left;
+    background-color: #777;
+    color: white;
+    
+}
+.UploadFileButton
+{   
+    height:30px;
+    font-weight: bold;
+    width: 10%;
+    color: white;
+    padding-left:18px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-khtml-border-radius: 15px;
+	border-radius: 15px;
+	background-color: #005ab5;
+	
+	background-repeat: no-repeat;
+	background-position: left center;
+	margin-right: 20px;
+	margin-top: 12px;
+}
+.UploadFileButton:disabled
+{   
+    color: grey;
+	height:30px;
+	padding-left:18px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-khtml-border-radius: 15px;
+	border-radius: 15px;
+	background-color: #005ab5;
+	background-repeat: no-repeat;
+	background-position: left center;
+	margin-right: 20px;
+	margin-top: 12px;
+}
+.fileInputList {
+    height:40%;
+    width: 90%;
+    color: white;
+	padding-left:18px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-khtml-border-radius: 15px;
+	border-radius: 15px;
+	background-color: #005ab5;
+	background-repeat: no-repeat;
+	background-position: left center;
+	margin-right: 20px;
+	margin-top: 12px;
+}
+/************** CHROME STYLE *****************/
+.chromestyle{
+width: 100%;
+font-weight: bold;
+background-color: #005f94;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+ padding: 3px;
+}
+
+.chromestyle:after{ /*Add margin between menu and rest of content in Firefox*/
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+.chromestyle ul{
+width: 100%;
+padding: 4px 0;
+margin: 0;
+text-align: left; /*set value to "left", "center", or "right"*/
+}
+
+.chromestyle ul li{
+display: inline;
+}
+
+.chromestyle ul li a{
+	color: #fff;
+	padding: 4px 7px;
+	margin: 0;
+	text-decoration: none;
+	border-right: 1px solid #DADADA;
+	background-color: #005f94;
+	font-weight: normal;
+}
+
+.chromestyle ul li a:hover, .chromestyle ul li a.selected{ /*script dynamically adds a class of "selected" to the current active menu item*/
+
+}
+
+/* ######### Style for Drop Down Menu ######### */
+
+.dropmenudiv{
+	position:fixed;
+	border: 1px solid #BBB; /*THEME CHANGE HERE*/
+	border-bottom-width: 0;
+	z-index:100;
+	background-color: white;
+	width: 250px;
+	visibility: hidden;
+}
+
+.dropmenudiv a{
+width: auto;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid #BBB; /*THEME CHANGE HERE*/
+padding: 2px 0;
+text-decoration: none;
+font-weight: bold;
+color: black;
+}
+
+* html .dropmenudiv a{ /*IE only hack*/
+width: 100%;
+}
+
+.dropmenudiv a:hover{ /*THEME CHANGE HERE*/
+	background-color: #FFFFFF;
+	cursor:pointer;
+	color: #666;
+}
+.HomeButton
+{
+	padding: 3px;
+}
+/************** End CHROME STYLE *****************/
+
+.market-hyperlink {
+	padding-bottom: 5px;
+}
+.PawGrid 
+{
+	border: 1px solid #CCC;
+	padding: 3px;
+	width: 97%;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	color: #000;
+}
+.PawGrid td {
+	border: thin solid #CCCCCC;
+	padding: 3px;
+	color: #000;
+ }
+.PawGrid th {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #BEBEBE;
+}
+.PawLinkButton { border-bottom-style: none; }
+.PawLinkButtonImage { border-style: none; }
+.PartNumberHyperLink {
+	text-decoration: underline;
+	font-weight: bold;
+}
+.PawCompareText
+{
+	font-size: 0px;
+	height: 0px;
+	width: 55px;
+}
+.PawLinkButton {
+	height: 29px;
+	width: 55px;
+}
+.PriceLink { font-weight: bold; }
+
+/* Team Main */
+.ReproterTable
+{
+    width: 100%;
+    border: 0;
+}
+.PerformanceGrid
+{ 
+    width: 100%;
+    border-style: none;   
+}
+.WhatsNewCellLabel
+{
+    
+}
+.NumbersColumnWide
+{
+
+}
+.NumbersLinkColumn
+{
+
+}
+.NumbersLinkColumnHeader
+{
+    HorizontalAlign: Left;
+}
+.NumbersColumnNarrow
+{
+  Horiz-Align: Left;
+  Width: 85px;  
+}
+.NumbersColumnHeader
+{
+  Horiz-Align: Right;
+  Text-Align: Right;  
+}
+.NumbersTitleLabel{}
+.TabContent {
+    vertical-align: top;
+}
+.Content
+ {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	float: left;
+	clear: both;
+	padding-right: 10%;
+	padding-left: 10%;
+}
+.Frame
+{
+	float: left;
+	width: 100%;
+	position: relative;
+}
+.ContentSearch
+ {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 15px;
+	float: left;
+	clear: both;
+	padding-right: 10%;
+	padding-left: 10%;
+}
+.ContentSearchParametric
+ {
+	width: 97%;
+	margin-top: -4px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 15px;
+	float: left;
+	position: relative;
+	color: #000;
+	padding-right: 10%;
+	padding-left: 10%;
+}
+.FPContainer
+{
+	padding-right: 10%;
+	padding-left: 10%;
+	margin-bottom: 15px;
+}
+.ContentPaw
+{
+max-width:70%;
+}
+/* CustomerLogin */
+.CustomerFooterMain {
+	max-width:993px;
+	margin-left:auto;
+	margin-right:auto;
+	max-height: 50px;
+	padding-top: 10px;
+	margin-top: -175px;
+	color: #FFF;
+	padding-bottom: 10px;
+	background-color: #2c4a97;
+}
+.CustomerFooterMain a{
+	
+	color: #FFF;
+}
+.SocialLinks{
+	color: #FFF;
+	font-size: 0.875em;
+	}
+.CDIMarkets{
+	color: #FFF;
+	}
+.HeaderFooter{
+	color: #FFF;
+	font-weight: bold;
+	padding-top: 10px;
+	}
+.Poor{ color: #FF0000;}
+.Weak{ color: #FF0000;}
+.Average{ color: #FFFF00;}
+.Strong{ color: #00FF7F;}
+.Excellent{color: #00FF00;}
+		
+.CustomerLoginMain {
+	max-width:1024px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+	padding-bottom:0px;
+	background-image: url(http://www.connect-components.com/Images/background_customer_login_1.png);
+	background-repeat: no-repeat;
+	height: 850px;
+	height: 690px;
+}
+.LeftPanelCustomerLogin {
+	width:36%;
+	margin-top: 25px;
+	margin-left: 45px;
+	float:left;
+}
+.LeftBlue{
+	text-align:left;
+	background-image: url(http://www.connect-components.com/Images/BackgroundImageLeftScreen.jpg);
+	background-repeat: no-repeat;
+	padding-top: 0%;
+	padding-right: 3%;
+	padding-bottom: 4%;
+	padding-left: 3%;
+	min-height: 400px;
+}
+.ErrorMessages{
+	text-align:left;
+	padding: 15px;
+	color: #F00;
+}
+.RightPanelCustomerLogin {
+	max-width:50%;
+	text-align:left;
+	float:left;
+	margin-top: 25px;
+	margin-left: 25px;
+}
+.TopLeftLogin {
+	width:100%;
+	background-color: #FFFFFF;
+	padding: 2%;
+	margin-bottom: 2%;
+	border: 1px solid #2e60a3;
+}
+.BottomLeftLogin {
+	width:100%;
+	background-color: #FFFFFF;
+	padding: 2%;
+	border: 1px solid #2e60a3;
+}
+.WhiteBold {
+	font-weight: bold;
+	color: #FFF;
+}
+.RegisterText {
+	color: #FFF;
+	font-weight: bold;
+	padding-top: 5%;
+	padding-left: 3%;
+	padding-right: 3%;
+	font-size: 1em;
+}
+.RegisterText ul li {
+	color: #FFF;
+	padding-top: 2%;
+	font-size: 0.875em;
+}
+.LoginImage{
+	max-width:100%;
+	float:left;
+	padding-bottom: 0px;
+}
+.LoginImage2 {
+ 	max-width:100%;
+	padding-bottom: 3%;
+}
+.AlreadyHaveTitle {
+	font-weight: bold;
+	color: #2e60a3;
+	padding-bottom: 2%;
+}
+.FormText {
+	font-size: 0.71em;
+	font-weight: Normal;
+	color: #394c5a;
+	text-align:left;
+}
+.LoginInput {
+    width: 85%;
+	font-size: 0.875em;
+}
+.linkLogin 
+{
+	color: #2e60a3;
+	font-size: 0.95em;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.TermsandConditions {
+	max-width:950px;
+	height: 283px;
+	background-color: #FFFFFF;
+	border: 1px solid #2e60a3;
+	margin-bottom: 25px;
+	float:left;
+	padding-top: 20px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+}
+.TermsPanel {
+	max-width:935px;
+	float:left;
+	padding: 25px;
+}
+.TermsBackground {
+	max-width:1024px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+	padding-bottom:30px;
+	height: 275px;
+}
+.TermsConditionsBlueBackground {
+	max-width:995px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image: url(http://www.connect-components.com/Images/BackgroundImageForgotPassword.jpg);
+	background-repeat: no-repeat;
+	height: 699px;
+}
+.RegisterBlueBackground {
+	max-width:855px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image: url(http://www.connect-components.com/Images/BackgroundImageForgotPassword.jpg);
+	background-repeat: no-repeat;
+	height: 699px;
+}
+.headerTopTermsConditions
+{
+	max-width:1024px;
+	margin-left:auto;
+	margin-right:auto;
+	height: 50px;
+}
+.TermsText {
+	font-size: 0.71em;
+	font-weight: Normal;
+	color: #394c5a;
+	text-align:left;
+}
+.TermsTitle {
+	font-size: 1em;
+	font-weight: bold;
+	color: #2e60a3;
+	padding-bottom: 2%;
+}
+.ForgotPasswordBlueBackground {
+	margin-left:auto;
+	margin-right:auto;
+	background-image: url(http://www.connect-components.com/Images/BackgroundImageForgotPassword.jpg);
+	background-repeat: no-repeat;
+	height: 325px;
+	max-width:940px;
+	padding: 25px;
+	margin-top: -125px;
+	font-size: 14px;
+}
+.ForgotPassword3 {
+}
+.headerTopForgotPassword
+{
+	max-width:1024px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.TopLeftForgotPassword {
+	max-width: 425px;
+	padding: 15px;
+	float:left;
+	background-image: url(http://www.connect-components.com/Images/BackgroundImageLeftScreenLighterBlue.jpg);
+	background-repeat: repeat-x;
+	height: 225px;
+}
+.TopLeftForgotPassword2 {
+	max-width: 425px;
+	background-color: #FFFFFF;
+	border: 1px solid #2e60a3;
+	float:right;
+	padding: 15px;
+	height: 225px;
+}
+.LeftPanelCheckOutLogin2 {
+	float:left;
+	margin-top: -50px;
+}
+.RightPanelCheckOutLogin2 {
+	max-width:100%;
+	float:right;
+	margin-top: -50px;
+}
+
+.positionForgotPassword {
+	margin-top: -200px;	
+}
+.CustomerLoginMain2 {
+	max-width:1024px;
+	margin-left:auto;
+	margin-right:auto;
+	z-index: 100;
+	text-align:left;
+	padding-bottom:30px;
+	background-image: url(http://www.connect-components.com/Images/AccountBackground_Checkout.png);
+	background-repeat: no-repeat;
+	height: 699px;
+}
+.LeftPanelCheckOutLogin {
+	width:40%;
+	float:left;
+	padding: 2%;
+	margin-right: 1%;
+	margin-bottom: 2%;
+	margin-left: 40px;
+	margin-top: 5px;
+}
+.RightPanelCheckOutLogin {
+	width:43%;
+	float:left;
+	padding: 2%;
+	margin-right: 1%;
+	margin-bottom: 2%;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+.TopLeftLoginCheckout {
+	margin-bottom: 2%;
+	float:left;
+}
+.TopLeftLoginCheckout2 {
+	max-width: 380px;
+	background-color: #FFFFFF;
+	border: 1px solid #2e60a3;
+	padding: 15px;
+	margin-bottom: 25px;
+	float:left;
+}
+.TopLeftLoginCheckout3 {
+	max-width: 380px;
+	padding: 15px;
+	margin-bottom: 2%;
+	float:left;
+	background-image: url(http://www.connect-components.com/Images/BackgroundImageLeftScreen.jpg);
+	background-repeat: no-repeat;
+}
+.TopLeftLoginCheckout4 {
+	max-width: 380px;
+	background-color: #FFFFFF;
+	border: 1px solid #2e60a3;
+	padding: 15px;
+	margin-bottom: 2%;
+	float:left;
+	margin-top: 125px;
+}
+.headerTopAccountLogin
+{
+	background-image: url(http://www.connect-components.com/Images/TopImage.png);
+	height: 50px;
+}
+.TemporaryPasswordText
+{
+	font-size: 14px;
+	line-height: 17px;
+	color: #666;
+}
+.TemporaryPasswordEmail
+{
+	font-size: 14px;
+	line-height: 16px;
+	font-weight: bold;
+	color: #09C;
+}
+.WhiteBoldPopup {
+	font-weight: bold;
+	color: #FFF;
+}
+.EwaveCloseButton {
+	color: #FFF;
+	font-weight: bold;
+	padding-top: 3%;
+	padding-left: 3%;
+	padding-right: 3%;
+	font-size: 1em;
+}
+.EwaveExample {
+	max-width:950px;
+	height: 283px;
+	background-color: #FFFFFF;
+	border: 1px solid #2e60a3;
+	margin-bottom: 25px;
+	float:left;
+	padding-top: 20px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+}
+.EwavePanel {
+	max-width:940px;
+	float:left;
+	padding: 2%;
+	margin-right: 1%;
+	margin-bottom: 2%;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.EwaveTitlePopup {
+	font-size: 1em;
+	font-weight: bold;
+	color: #2e60a3;
+	padding-bottom: 5px;
+}
+.EwaveBackground {
+	max-width:1024px;
+	margin-left:auto;
+	margin-right:auto;
+	z-index: 100;
+	text-align:left;
+	padding-bottom:30px;
+	height: 350px;
+}
+.EwaveText {
+	font-size: 15px;
+	color: #394c5a;
+	text-align:left;
+	line-height: 17px;
+}
+.EwaveExampleBlueBackground {
+	max-width:1080px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image: url(http://www.connect-components.com/Images/BackgroundImageForgotPassword.jpg);
+	background-repeat: no-repeat;
+	height: 699px;
+}
+.headerTopEwaveExample
+{
+	max-width:1024px;
+	margin-left:auto;
+	margin-right:auto;
+	height: 50px;
+}
+.SidebarControlsPanel
+{
+}
+
+.HeaderMenu {
+	float: left;
+	clear: right;
+    
+}
+.HeaderHoverStyle  
+{
+	float:left;
+	/*margin-top: 25px;*/
+	height: 12px;
+	/*padding-top: 12px;*/
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	color: #034fbe;
+	margin-right:  0px;
+	vertical-align: text-bottom;
+	/*gradient */
+	background-color: #FFF;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	font-weight: bold;
+	border: 1px solid #003399;
+	z-index: 999;
+}
+.HeaderHoverStyle a 
+{
+	color: #034fbe;
+	font-weight: bold;
+	margin-top: 7px;
+}
+.HeaderHoverStyle:hover
+{
+	color: #fecc6b;	
+}
+
+.Pheader {
+       
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    width: 200px;
+    height: 34px;
+    padding: 15px;                
+}
+.MenuHeader 
+{
+    width:275px;
+    background-image:url('http://www.connect-components.com/PortalImages/CDITabBG.bmp');
+    background-repeat:repeat-x; 
+    margin-bottom: -7px;    
+}
+.Menubackground 
+{   
+    background-color:lightgray;
+    margin: 0px;
+    padding: 0px;
+}
+.ExportRestrictedMessage {  text-align: left; padding:5px; }
+.CartImage {
+    margin-top: 3px;
+}
+.HyperlinkCreateAccount  {
+    font: bold;
+    text-decoration: underline; 
+    color: #2e60a3;
+	font-size: 1.55em;
+}
+.HyperlinkCreateAccount a {
+    font: bold;
+    text-decoration: underline; 
+    color: #2e60a3;
+	font-size: 1.55em;
+}
+.HyperlinkCreateAccount link {
+    font: bold;
+    text-decoration: underline; 
+    color: #2e60a3;
+	font-size: 1.55em;
+}
+.HyperlinkCreateAccount:link  {
+    font: bold;
+    text-decoration: underline; 
+    color: #2e60a3;
+	font-size: 1.55em;
+}
+.HyperlinkCreateAccount:visited  {
+    font: bold;
+    text-decoration: underline; 
+    color: #2e60a3;
+	font-size: 1.55em;
+}
+.FPModelColumnHeader {
+ 
+	color: #004080;
+	text-align: center;
+	vertical-align: text-top;
+	padding-top: 5px;
+	border-right:solid;
+	border-right-width: 1px;
+	border-right-color: darkgray;
+    width: 55px;
+
+}
+.FPProdImageColumnHeader {
+    border-right: solid 1px grey;
+    min-width: 140px;
+    vertical-align: top;
+    padding-top: 6px;
+    padding-bottom: 30px;
+}
+.ModelNoHeader {
+    border-bottom:dashed; 
+    border-bottom-width: 1px;
+    border-bottom-color: darkgray;
+	padding-bottom: 5px;
+}
+
+.CategoriesGrid 
+{
+    width: 1250px;
+    margin-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.ContentAreaPromo{
+
+   border:2px gray groove;
+   float:left;
+   width: 420px;
+} 
+.AdditionalProductContentImage 
+{
+	text-align: center;
+	vertical-align: middle;
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 350px;
+	height:auto;
+} 
+.OuterHomeContainer {
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	-webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.3), 0 1px 1px rgba(0,0,0,.4);
+	-moz-box-shadow: inset 0 1px 0 rgba(255,255,255,.3), 0 1px 1px rgba(0,0,0,.4);
+	box-shadow: inset 0 1px 0 rgba(255,255,255,.3), 0 1px 1px rgba(0,0,0,.4);
+	border: 1px solid #CCCCCC;
+	background-color: #FFF;
+	width: 985px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 925px;
+}
+.MiddleHome {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 15px;
+}
+.WhiteHeader a {
+	font-weight: bold;
+	color: #FFF;
+	font-size: 11pt;
+	text-decoration: underline;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+.BlackHeader {
+	font-weight: bold;
+	color: #000;
+	font-size: 12pt;
+	padding-top: 2px;
+	margin-bottom: 15px;
+	padding-bottom: 2px;
+}
+.NewNavigation {	
+	color: #999;
+}
+hr {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #CCC;
+}
+.TitleHeaderFooter {
+	color: #828282;
+}
+#plBilling
+{
+	margin-left:auto;
+	margin-right:auto;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-bottom: 20px;
+	margin-top: 5px;
+}     
+.ManufacturerLink {
+	color: #900;
+	text-decoration: underline;
+}
+.SiteSearchModule
+{
+	float: right;
+}
+.HeaderSearchDiv
+{
+	padding-right: 10%;
+	padding-left: 70%;
+	z-index: 999;
+	position: absolute;
+}
+.HeaderSearchTxtDiv
+{
+	float: left;
+}
+.HeaderSearchTxt
+{
+	width: 130px;
+	padding: 3px;
+}
+#txtSearch
+{
+
+}
+.HeaderSearchLabelDiv
+{
+	float: left;
+}
+.HeaderSearchLabel
+{
+	min-width: 100px;
+	white-space: nowrap;
+	color: #ffad11;
+}
+.HeaderSearchGoBtnDiv
+{
+	float: left;
+}
+.HeaderSearchGoBtn
+{
+	text-align: center;
+	vertical-align: middle;
+	height: 25px;
+}
+/*Product Detail Pop-Up */
+.PopUpOutterContainer
+{
+
+}
+.TitlePopUp
+{
+	color: white;
+	font-weight: bold;
+	padding: 5px;
+	background-color: #000;
+}
+.ProductImagePopUp
+{
+	float: left;
+	max-width: 200px;
+	min-width: 50px;
+	clear: left;
+	margin-top: 10px;
+}
+.ProductImagePopUp img
+{
+	max-width: 200px;
+	min-width: 50px;
+	margin-right: 10px;
+}
+.PopUpContent
+{
+	float: right;
+	min-width: 400px;
+	max-width: 600px;
+	margin-top: 10px;
+}
+.PopUpItemsInCart
+{
+	clear: both;
+	float: left;
+	margin-left:auto;
+	margin-right:auto;
+	width: 100%;
+}
+.PopUpContent td 
+{
+	border: thin solid #FFF;
+}
+.PopUpItemsInCart tr
+{
+	border: thin solid #FFF;
+}
+.PartSearchButton
+{
+
+}
+ .staticLabel {
+	font-weight: bold;
+	color: black;
+	text-align: left;
+	vertical-align: top;
+	padding-right: 10px;
+    }
+.staticLabelCart {
+	font-weight: bold;
+	color: #fff;
+	text-align: left;
+	vertical-align: top;
+	padding-right: 10px;
+	background-color: #005f94;
+    }
+    .companyInfo {
+	font-weight: normal;
+	color: #000;
+    }
+.companyInfoCart {
+	font-weight: bold;
+	color: #000;
+	background-color: #E1E1E1;
+    }
+    .cartInfo {
+	color: black;
+	text-align: left;
+	vertical-align: top;
+	padding-right: 10px;
+	font-size: 12px;
+    }
+	#pnlAdditionalProducts 
+	{
+
+    }
+	#tbxAdd
+	{
+	margin-top: 15px;
+    }
+	.PartNumberCell {
+    padding-left: 15px;
+    margin-right: 5px;
+    }
+    .RelatedProductsrowStyle td {
+	padding: 5px;
+	text-align: left;
+	vertical-align: top;
+		}
+		.RelatedProductsrowStyle {
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+		}
+
+    .RelatedProductsDescription 
+	{
+  
+    }
+	.RelatedProductsOuterContainer table
+	{
+	padding-top: 10px;
+    }
+.outer-container-home
+{
+	margin-top: -30px;
+    }
+#ContentPane
+{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.right-panel-1
+{
+	float: left;
+}
+#RightPane
+{
+	float: left;
+}
+	.latest-news
+	{
+	margin-left: 15px;
+	margin-top: -15px;
+    }
+	/* Mega Manu Navigation Bar */
+#menu {
+	list-style:none;
+	margin-top: 5px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	position: relative;
+	z-index: 999;
+}
+#menu li {
+	float:left;
+	position:relative;
+	margin-top:7px;
+	border:none;
+	padding-top: 4px;
+	padding-right: 10px;
+	padding-bottom: 4px;
+}
+#menu li:hover {
+
+}
+#menu li a {
+	display:block;
+	outline:0;
+	text-decoration:none;
+	font-size:24px;
+	color:#FFFFFF;
+}
+ 
+#menu li:hover a {
+	color:#fecc6b;
+}
+#menu li .drop {
+    padding-right:15px;
+    background:url("http://www.connect-components.com/css/img/drop.png") no-repeat right 8px;
+	
+}
+#menu li:hover .drop {
+    background:url("http://www.connect-components.com/css/img/drop.png") no-repeat right 7px;
+}
+ 
+/* Drop Down */
+.dropdown_1column,
+.dropdown_2columns,
+.dropdown_3columns,
+.dropdown_4columns,
+.dropdown_5columns {
+	float:left;
+	position:absolute;
+	left:-999em; /* Hides the drop down */
+	text-align:left;
+	border:1px solid #777777;
+	border-top:none;
+	/* Gradient background */
+    background:#fff;
+	/* Rounded Corners */
+    -moz-border-radius: 0px 5px 5px 5px;
+	-webkit-border-radius: 0px 5px 5px 5px;
+	border-radius: 0px 5px 5px 5px;
+	-moz-box-shadow:0px 0px 5px #4d4f50;
+	-webkit-box-shadow:0px 0px 5px #4d4f50;
+	box-shadow:0px 0px 5px #4d4f50;
+	margin-top: 4px;
+	margin-right: auto;
+	margin-bottom: 4px;
+	margin-left: auto;
+	padding: 10px;
+}
+ 
+.dropdown_1column {width: 140px;}
+.dropdown_2columns {width: 280px;}
+.dropdown_3columns {width: 420px;}
+.dropdown_4columns {width: 500px;}
+.dropdown_5columns {width: 700px;}
+ 
+#menu li:hover .dropdown_1column,
+#menu li:hover .dropdown_2columns,
+#menu li:hover .dropdown_3columns,
+#menu li:hover .dropdown_4columns,
+#menu li:hover .dropdown_5columns {
+    left:-1px;
+    top:auto;
+}
+ 
+/* Columns */
+ 
+.col_1,
+.col_2,
+.col_3,
+.col_4,
+.col_5 {
+	display:inline;
+	float: left;
+	position: relative;
+}
+.col_1 {width:130px;}
+.col_2 {width:270px;}
+.col_3 {width:410px;}
+.col_4 {width:100%;}
+.col_5 {width:690px;}
+ 
+/* Right alignment */
+ 
+#menu .menu_right {
+    float:right;
+	margin-right: 15px;
+}
+#menu li .align_right {
+    /* Rounded Corners */
+    -moz-border-radius: 5px 0px 5px 5px;
+    -webkit-border-radius: 5px 0px 5px 5px;
+    border-radius: 5px 0px 5px 5px;
+}
+#menu li:hover .align_right {
+    left:auto;
+    right:-1px;
+    top:auto;
+}
+ 
+/* Drop Down Content Stylings */
+#menu p, #menu h2, #menu h3, #menu ul li {
+    line-height:21px;
+    font-size:12px;
+    text-align:left;
+}
+#menu h2 {
+	font-size:18px;
+	font-weight:700;
+	letter-spacing:-1px;
+	padding-bottom:5px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #666;
+	color: #999;
+	margin-top: 5px;
+	margin-right: 0;
+	margin-bottom: 5px;
+	margin-left: 0;
+}
+#menu h1 {
+	font-size:21px;
+	font-weight:600;
+	letter-spacing:-1px;
+	margin:7px 0 14px 0;
+	padding-bottom:14px;
+	color: #666;
+}
+#menu h3 {
+	font-size:14px;
+	margin:7px 0 14px 0;
+	padding-bottom:7px;
+	color: #999;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+#menu p {
+    line-height:18px;
+    margin:0 0 10px 0;
+}
+ 
+#menu li:hover div a {
+	font-size:12px;
+	color:#fecc6b;
+}
+#menu li:hover div a:hover {
+	color:#fecc6b;
+}
+.strong {
+    font-weight:bold;
+}
+.italic {
+    font-style:italic;
+}
+.imgshadow {
+    background:#FFFFFF;
+    padding:4px;
+    border:1px solid #777777;
+    margin-top:5px;
+    -moz-box-shadow:0px 0px 5px #666666;
+    -webkit-box-shadow:0px 0px 5px #666666;
+    box-shadow:0px 0px 5px #666666;
+}
+.img_left { /* Image sticks to the left */
+    width:auto;
+    float:left;
+    margin:5px 15px 5px 5px;
+}
+#menu li .black_box {
+    background-color:#4d4f50;
+    color: #eeeeee;
+    text-shadow: 1px 1px 1px #000;
+    padding:4px 6px 4px 6px;
+ 
+    /* Rounded Corners */
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+ 
+    /* Shadow */
+    -webkit-box-shadow:inset 0 0 3px #262626;
+    -moz-box-shadow:inset 0 0 3px #262626;
+    box-shadow:inset 0 0 3px #262626;
+}
+#menu li ul {
+    list-style:none;
+    padding:0;
+    margin:0 0 12px 0;
+}
+#menu li ul li {
+    font-size:12px;
+    line-height:24px;
+    position:relative;
+    text-shadow: 1px 1px 1px #ffffff;
+    padding:0;
+    margin:0;
+    float:none;
+    text-align:left;
+    width:130px;
+}
+#menu li ul li:hover {
+    background:none;
+    border:none;
+    padding:0;
+    margin:0;
+}
+#menu li .greybox li {
+    background:#F4F4F4;
+    border:1px solid #bbbbbb;
+    margin:0px 0px 4px 0px;
+    padding:4px 6px 4px 6px;
+    width:116px;
+ 
+    /* Rounded Corners */
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+#menu li .greybox li:hover {
+	background:#ffffff;
+	border:1px solid #aaaaaa;
+	margin-top: 0px;
+	margin-bottom: 4px;
+	margin-left: 0px;
+	padding-top: 4px;
+	padding-right: 6px;
+	padding-bottom: 4px;
+	padding-left: 6px;
+}
+.menu-adjust
+{
+	float: left;
+	margin-top: -50px;
+	margin-left: 20%;
+	min-width: 300px;
+	clear: both;
+	position: relative;
+}
+/* End Drop Down */
+.full-banner {
+	width:100%;
+}
+.full-banner img{ width:100%;}
+.tagline-top
+{
+	color: #FFF;
+	float: right;
+	font-style: italic;
+	position: relative;
+	margin-left: 15px;
+}
+/* Hamburger Menu */
+#cssmenu {
+	text-transform: uppercase;
+	text-align: left;
+	float: left;
+	margin-top: 3%;
+}
+#cssmenu > ul {
+	width: auto;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	background: #ffffff;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-o-border-radius: 2px;
+	border-radius: 2px;
+}
+#cssmenu > ul li#responsive-tab {
+  display: none;
+  /* Hide for large screens */
+
+}
+#cssmenu > ul li {
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+}
+#cssmenu > ul li.right {
+  float: right;
+}
+#cssmenu > ul li.has-sub {
+  position: relative;
+}
+#cssmenu > ul li.has-sub:hover ul {
+  display: block;
+}
+#cssmenu > ul li.has-sub ul {
+  display: none;
+  width: 300px;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  background: #ffffff;
+  border: 1px solid #ece6e8;
+  border-bottom: 3px solid #d9ced2;
+  border-top: 0 none;
+}
+#cssmenu > ul li.has-sub ul li {
+  display: block;
+}
+#cssmenu > ul li.has-sub > a {
+  background-repeat: no-repeat;
+  background-position: 90% -95%;
+}
+#cssmenu > ul li.has-sub > a.active,
+#cssmenu > ul li.has-sub > a:hover {
+  background-position: 90% 195%;
+}
+#cssmenu > ul li a {
+	display: block;
+	padding: 12px 24px 11px 24px;
+	text-decoration: none;
+	color: #262626;
+	text-shadow: 0px 1px 0px #fff;
+}
+#cssmenu > ul li a.active,
+#cssmenu > ul li a:hover {
+	color: #fecc6b;
+	text-shadow: 0px 1px 0px #000;
+	background-color: #005f94;
+}
+@media (max-width: 600px) {
+  #cssmenu > ul {
+    width: 100%;
+  }
+  #cssmenu > ul li#responsive-tab {
+    display: block;
+  }
+  #cssmenu > ul li#responsive-tab a {
+	background: url('http://www.connect-components.com/images/menu.png') no-repeat;
+	background-position: 95% -35%;
+  }
+  #cssmenu > ul li#responsive-tab a:hover {
+    background-color: #005f94;
+    background-position: 95% 135%;
+  }
+  #cssmenu > ul li {
+    display: none;
+  }
+  #cssmenu > ul li.right {
+    float: none;
+  }
+  #cssmenu > ul li.has-sub {
+    position: relative;
+  }
+  #cssmenu > ul li.has-sub ul {
+    display: block;
+    position: static;
+    width: 100%;
+    background: #ffffff;
+    border: 0 none;
+  }
+  #cssmenu > ul li.has-sub ul li {
+    display: block !important;
+  }
+  #cssmenu > ul li.has-sub ul li a span {
+    display: block;
+    padding-left: 24px;
+  }
+  #cssmenu > ul li.has-sub > a {
+    background-image: none;
+  }
+}
+/* Make sure they show even if hidden in mobile view by JS */
+@media (min-width: 600px) {
+  #cssmenu > ul > li.collapsed {
+    display: inline-block !important;
+    *display: inline;
+    zoom: 1;
+  }
+  #cssmenu > ul ul li.collapsed {
+    display: block !important;
+  }
+}
+/* New Search Pages */
+	.DimensionPane 
+{
+	background-color: #E4E4E4;	
+}
+  .DimensionPane input[type="submit"]
+{
+	margin-left: 5px;
+	margin-bottom: 15px;
+  }
+ 
+  #pnlRefinements
+		{
+	padding: 10px;
+	background-color: #eeeeee;
+        }
+ .ProductSearchTable
+{
+	width: 100%;
+	color: #000;
+}
+
+.ProductSearchTable td
+{
+	padding: 3px;
+	border-top-width: thin;
+	border-bottom-width: thin;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #F0F0F0;
+	border-bottom-color: #F0F0F0;
+	border-right-width: thin;
+	border-left-width: thin;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #E1E1E1;
+	border-left-color: #E1E1E1;
+}
+  .ProductTypeLink
+  {
+	font-weight: bold;
+  }
+   .ProductSearchTable th
+{
+	background-color: #4d4f50;
+	color: #FFFFFF;
+	text-align: center;
+	vertical-align: middle;
+  }
+  .ParametricSearchGridTable th
+  {
+	background-color: #4d4f50;
+	color: #FFFFFF;
+	text-align: center;
+	vertical-align: middle;
+  }
+  .TableHeader4
+  {
+	background-color: #4d4f50;
+	color: #FFFFFF;
+  }
+  .TableHeader4 th
+  {
+	text-align: left;
+	vertical-align: middle;
+	min-width: 100px;
+	padding-left: 5px;
+	padding-right: 10px;
+  }
+  .TableHeader5
+  {
+	background-color: #4d4f50;
+	color: #FFFFFF;
+  }
+  .TableHeader5 th
+  {
+	text-align: left;
+	vertical-align: middle;
+	min-width: 100px;
+	padding-left: 5px;
+	padding-right: 10px;
+  }
+  #gvPackageFormat
+  {
+	width: 100%;	
+  }
+  .OtherResourcesImageColumn img
+  {
+	height: 80px;
+	width: 80px;	
+  }
+     .ProductSearchTable tr
+{
+	border: thin solid #CCC;
+  }
+  .ProductSearchTable td
+{
+	padding: 3px;
+	text-align: center;
+	vertical-align: middle;
+  }
+    .SearchPane
+{
+  }
+  .ParametricMainGrid
+  {
+	padding: 10px;
+	margin-bottom: 10px;
+	margin-top: -15px;
+  }
+    .ParametricSearchGridTable
+  {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 100%;
+	text-align: center;
+	vertical-align: middle;
+	color: #000;
+  }
+  .GridLabel
+  {
+	font-weight: bold;
+	margin-left: 15px;
+  }
+      .ParametricSearchGridTable td
+  {
+	padding: 3px;
+	border-top-width: thin;
+	border-bottom-width: thin;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #F0F0F0;
+	border-bottom-color: #F0F0F0;
+	border-right-width: thin;
+	border-left-width: thin;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #E1E1E1;
+	border-left-color: #E1E1E1;
+  }
+      .DimensionPaneTop
+{
+
+  }
+  .SearchPaneTitleBarTop
+{	
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 5px;
+	white-space: normal;
+	margin-bottom: 5px;
+	background-color: #005f94;
+	color: #FFF;
+	font-weight: bold;
+	padding: 3px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+  }
+    .SearchPaneTitleBar
+{
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 5px;
+	white-space: normal;
+	margin-bottom: 5px;
+	background-color: #005f94;
+	color: #FFF;
+	font-weight: bold;
+	padding: 3px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+  }
+  #lblSearchResultsTitle
+  {
+	font-weight: bold;
+  }
+  .SearchRefinementTitleBarLeft
+  {
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 5px;
+	white-space: normal;
+	margin-bottom: 5px;
+	background-color: #005f94;
+	color: #FFF;
+	font-weight: bold;
+	padding: 3px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+  }
+  .SearchRefinementTitleBarLeft2
+  {
+ 	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 5px;
+	white-space: normal;
+	margin-bottom: 5px;
+	background-color: #005f94;
+	color: #FFF;
+	font-weight: bold;
+	padding: 3px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+  }
+  .BreadCrumbsDiv
+  {
+	margin-bottom: 10px;	
+  }
+  
+  .MyTabStyle .ajax__tab_header
+{
+	font-weight: bold;
+	display: block;
+}
+.MyTabStyle .ajax__tab_header .ajax__tab_outer
+{
+	color: #ffffff;
+	margin-right: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	padding-top: 3px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	border: thin solid #CCC;
+	background-color: #005f94;
+	height: 30px;
+}
+.ajax__tab_tab
+{
+	height: 30px;
+}
+.MyTabStyle .ajax__tab_header .ajax__tab_inner
+{
+	
+}
+.MyTabStyle .ajax__tab_hover .ajax__tab_outer
+{
+	background-color: #999;
+}
+.MyTabStyle .ajax__tab_hover .ajax__tab_inner
+{
+	color: #fff;
+}
+.MyTabStyle .ajax__tab_active .ajax__tab_outer
+{
+	background-color: #4d4f50;
+}
+.MyTabStyle .ajax__tab_active .ajax__tab_inner
+{
+	color: #FFF;
+}
+.MyTabStyle .ajax__tab_body
+{
+	border-top-width: 0;
+	width: 100%;
+}
+.MyTabStyle 
+{
+	
+}
+
+.SortOptionsDiv
+{
+	margin-top: 5px;
+	clear: both;
+	float: left;
+	height: 30px;
+	font-weight: bold;
+	font-size: 11pt;
+	line-height: 13pt;
+}
+.SearchPaneResultsPerPage
+{
+	margin-top: 5px;
+	float: left;
+	clear: both;
+	height: 30px;
+	font-weight: bold;
+	font-size: 11pt;
+	line-height: 13pt;
+	padding-left: 15px;
+}
+.PagerButton {
+	padding-left: 5px;
+	padding-right: 5px;
+	font-size: 11pt;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	/*background-image: url(../images/PagerButton-RF.jpg);
+	font-weight: bold;
+	color: #0060c1;
+	/*padding: 3px 10px 2px 0px;*/
+	font-weight: normal;
+	color: #FFF;
+	background-color: #005f94;
+}
+ .ActivePagerButton {
+	padding-left: 5px;
+	padding-right: 5px;
+	font-size: 11pt;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	font-weight: bold;
+	color: #005f94;
+	background-color: #ffad11;
+     }
+ .PagerButtonDisabled {
+	padding-left: 5px;
+	padding-right: 5px;
+	font-size: 11pt;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	font-weight: normal;
+	color: #EBEBEB;
+	background-color: #EBEBEB;
+}
+#tcSearch_header
+{
+	float: left;
+	clear: both;
+  }
+.DimensionPaneSearchResults
+{
+	
+  }
+  .SearchGridMainDiv
+{
+	background-color: #FFF;
+  }
+  .SortAndPagerDiv
+  {
+
+  }
+  .PriceBreakCell td
+  {
+	margin-right: auto;
+	margin-left: auto;
+	width: 62px;
+	border: thin solid #FFF;
+  }
+  .PriceBreakCell th
+  {
+
+  }
+  #pnlRefinements td
+    {
+	padding-top: 2px;
+	padding-right: 15px;
+	padding-bottom: 2px;
+	padding-left: 2px;
+  }
+  .scrollingControlContainer
+{
+	background-color: white;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	margin: 5px;
+	padding: 5px;
+}
+.scrollingCheckBoxList
+{
+	border: 1px solid #CCCCCC;
+	margin: 5px;
+	min-height: 100px;
+	max-height: 200px;
+}
+.DimensionPanel
+{
+}
+.scrollingCheckBoxList input[type="checkbox"]
+{
+	margin-right: 5px;
+	margin-left: 5px;
+	font-weight: normal;
+}
+.scrollingPanel 
+{
+	border: 1px #808080 solid;
+	margin: 10px 10px 10px 10px;
+	min-height: 50px;	
+}
+.RefinmentHeader 
+{
+	font: bold;
+	border-bottom: 1px solid black    
+}
+  .BuyNowCell input[type=submit]   {
+	margin-top: 3px;	
+  }
+  .ParametricQtyTextbox {
+	max-width: 90px;
+  }
+  .cst-padding-src
+  {
+
+  }
+  .ParametricBuyNowButton {
+	color: #FFF;
+	background-color: #005f94;
+	margin-top: 5px;
+  }
+  .BuyNowColumnHeader
+    {
+	width: 85px;
+  }
+  .DesignDescriptionColumn td
+  {
+	text-align: left;
+	vertical-align: top;	
+  }
+  .DesignDescriptionColumn span
+  {
+	text-align: left;
+	vertical-align: top;
+	max-width:40%;
+  }
+   .DescriptionColumn span
+  {
+	text-align: left;
+	vertical-align: top;
+	max-width:40%;
+  }
+     .DescriptionColumnHeaderPS
+  {
+	text-align: center;
+	vertical-align: middle;
+  }
+    .DescriptionColumnHeader
+  {
+	text-align: center;
+	vertical-align: middle;
+	color: #4d4f50;
+	font-size: 14px;
+	line-height: 16px;
+  }
+  .SortArrows
+  {
+	text-align: center;
+	vertical-align: middle;
+  }
+ .ColumnHeaderTop
+  {
+	text-align: center;
+	vertical-align: middle;
+	font-size: 14px;
+	line-height: 16px;
+  }
+  .ColumnHeader
+   {
+	text-align: center;
+	vertical-align: middle;
+	font-size: 14px;
+	line-height: 16px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+  }
+  .StatusColumnHeader
+   {
+	text-align: center;
+	vertical-align: middle;
+	color: #4d4f50;
+	font-size: 14px;
+	line-height: 16px;
+  }
+  .PricingColumnHeader 
+   {
+	text-align: center;
+	vertical-align: middle;
+	color: #4d4f50;
+	font-size: 14px;
+	line-height: 16px;
+  }
+   .BuyNowColumnHeader
+   {
+	text-align: center;
+	vertical-align: middle;
+	color: #4d4f50;
+	font-size: 14px;
+	line-height: 16px;
+  }
+  .ColumnHeaderParametric
+  {
+	text-align: center;
+	vertical-align: middle;
+	color: #4d4f50;
+	font-size: 14px;
+	line-height: 16px;
+  }
+  .FiltersPanel {
+	/*height: 260px; 
+        overflow-x:scroll;
+        float: left;
+        width: 1050px;
+        margin-bottom: 0px;*/
+	float: left;
+	clear: both;
+	overflow-x:auto;
+	overflow-y: hidden;        /*width: 900px; height: 275px;*/
+	padding: 5px;
+	width: 100%;
+    }
+  .FilterPane {
+    /*display:inline-block; 
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	background-image: url(../images/SearchHeaderBackground.jpg);
+	background-repeat: repeat-x;*/
+	height: 275px; overflow: scroll; display: inline;
+    }
+	.pnlFilterContainer
+	{
+	margin-right: 5px;
+	margin-left: 5px;
+	width: 200px;
+	float: left;
+    }
+	.FiltersTable
+	{
+ float: left;
+    }
+  .LineCardContainer
+  {
+	border: thin solid #CCC;
+	padding: 10px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	margin-top: 15px;
+  }
+   .OtherContainer
+  {
+	border: thin solid #CCC;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	margin-top: 15px;
+  }
+  .SpecificationDetailTable
+   {
+	border: thin solid #CCC;
+	padding: 10px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+  }
+   .GreyColor {color: grey;}
+    .margin1 {margin: 1em;}
+    .marginTop1 {margin-top: 1em;}
+  .CheckBoxContainer
+   {
+	/*white-space:nowrap;*/ 
+        float: left;
+	/*margin: 1px;
+    border: 1px solid lavender;*/
+   	height: 215px;
+	overflow-y: scroll;
+	min-width: 200px;
+	background-color: #f3f4f6;
+	padding: 3px;
+  }
+  .CheckBoxContainer input[type="checkbox"]
+	{
+	margin-right: 5px;
+    }
+  .FilterTitleDiv
+  {
+	text-align: center;
+	vertical-align: middle;
+	color: #FFF;
+	font-weight: bold;
+	padding: 3px;
+	background-color: #005f94;
+}
+.FiltersTable
+   {
+	text-align: left;
+	vertical-align: top;
+	width: 100%;
+  }
+   .SliderPanel {
+	height: 215px;
+	background-color: #f3f4f6;
+	padding-right: 3px;
+	padding-left: 3px;
+	padding-top: 5px;
+    }
+	.TotalLabel {
+	font-weight: bold;
+	margin-left: 10px;
+    }
+	.FilterBtn
+	{
+		background-color: #f3f4f6;
+    }
+	 .sliderDiv {
+	height: 120px;
+	margin-top: 15px;
+	margin-right: 10px;
+	margin-bottom: 15px;
+	margin-left: 10px;
+    }
+	 .cbl {
+        height: 200px;
+        overflow-y: scroll;  
+    }
+	 .after-box {
+        clear: left;
+    }    
+    .after-box-tall {
+        clear: left;
+        height: 160px;
+    }
+	.ProductImagePanel { display:none;position:absolute; }
+.CloseLabel {
+	background: #000;
+	background: rgba(0,0,0,0.8);
+	z-index: 100;
+	cursor: pointer;
+	color: white;
+	text-align: center;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	opacity: .5;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+.blue
+{
+	background-color: #005f94;
+	width: 20px;
+}
+.products
+{
+	background-color: #fff;
+	max-width: 700px;
+	min-width: 300px;
+}
+.Products-Head
+{
+	color: #000;
+	letter-spacing: 2px;
+	font-weight: bold;
+	font-size: 21px;
+	line-height: 23px;
+}
+.Head-Products
+{
+	font-weight: bold;
+}
+/*Checkout Shipping */
+.CheckoutShippingTable input
+{
+	padding: 3px;	
+}
+.InfoContainer
+{
+	background-color: #FFFFFF;
+	border: thin solid #999;
+	padding: 15px;
+	margin-top: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	min-width: 450px;
+	max-width: 700px;
+}
+.InfoContainer li
+{
+	list-style-type: none;
+}
+.InfoContainer td
+{
+	border: 0px none #FFF;
+}
+.ShippingMethodList
+{
+	font-size: 12pt;
+	line-height: 14pt;
+	width: 100%;
+	clear: both;
+	float: left;
+}
+.shippingMethod li
+{
+	line-height: 14pt;
+	padding: 2px;
+	list-style-type: none;
+}
+.shippingMethod input[type=radio]
+{
+	margin-right: 5px;
+	margin-left: -30px;
+}
+.checkboxShipping input[type=checkbox]
+{
+	margin-right: 5px;
+}
+.scrollingCheckBoxList input[type=checkbox]
+{
+	margin-right: 5px;
+}
+.form-control-2
+{
+	margin-bottom: 10px;	
+}
+.form-control
+{
+	margin-bottom: 10px;	
+}
+.ExportContainer
+{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	clear: both;
+	float: left;
+}
+.CheckoutValidation
+{
+	margin-top: 0px;
+	margin-right: 20px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+}
+
+.SubmitContainer 
+{
+	float: left;
+	margin-bottom: 10px;
+}
+	.Sublinks
+	{
+	color: #000;
+	padding-right: 40px;
+	float: right;
+	padding-left: 40px;
+	}
+.CheckoutValidation
+{
+	margin-top: 5px;		
+}
+.OrderSummaryShippingMethod
+{
+	background-color: #F4F4F4;
+	border: thin solid #999;
+	padding: 15px;
+	margin-bottom: 20px;
+	width: 100%;
+}
+.OrderSummaryShippingMethod td
+{
+	font-size: 10pt;
+}
+  .CheckOutInner
+{
+	
+}
+.Errors
+{
+	margin: 5px;
+	padding: 5px;
+}
+.ShippingInfo
+{
+	background-color: #FFFFFF;
+	border: thin solid #999;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 100%;
+	float: left;
+}
+	.ShippingInfoCart
+{
+	background-color: #FFFFFF;
+	border: thin solid #999;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	float: left;
+	width: 100%;
+}
+.ShippingInfo3
+{
+	color: #FFF;
+	font-size: 14pt;
+	font-weight: bold;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding-right: 8px;
+	padding-left: 8px;
+	background-image: url(http://www.connect-components.com/images/bg-gradient-2.jpg);
+	background-repeat: repeat-x;
+	height: 40px;
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 5px;
+}
+.ShippingInfo2
+{
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	width: 98%;
+	float: left;
+}
+.BillingInfo
+{
+	background-color: #F4F4F4;
+	border: thin solid #999;
+	padding: 10px;
+	margin-top: 10px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+.BackToShippingLink a
+{
+	color: #FFF;
+	font-weight: bold;
+	background-color: #005f94;
+	min-width: 50px;
+	padding: 12px;
+	font-size: 9pt;
+	float: left;
+	margin-right: 10px;
+	font-family: 'Droid Sans', sans-serif;
+}
+.ShippingMethod
+{
+	background-color: #F4F4F4;
+	border: thin solid #999;
+	padding: 10px;
+	margin-top: 10px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	width: 100%;
+}
+.CheckoutHeaderLabel 
+{
+	color: #FFF;
+	font-size: 14pt;
+	font-weight: bold;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding-right: 8px;
+	padding-left: 8px;
+	background-image: url(http://www.connect-components.com/images/bg-gradient-2.jpg);
+	background-repeat: repeat-x;
+	height: 40px;
+	text-align: left;
+	vertical-align: top;
+	padding-top: 5px;
+}
+.CartHead
+{
+ 	background-color: #F4F4F4;
+	border: thin solid #999;
+	padding: 10px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #005f94;	
+	line-height: 18px;
+}
+.CartHead2
+{
+ 	background-color: #F4F4F4;
+	border: thin solid #999;
+	padding: 10px;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #005f94;	line-height: 18px;
+}
+.ShippingAttention
+{
+	padding: 10px;
+	font-weight: bold;
+}
+#txtAttention
+{
+
+}
+.LabelSummary
+{
+	font-weight: bold;	
+}
+.CheckoutContact select
+{
+	width: 183px;	
+}
+.CheckoutContact td
+{
+	padding: 3px;		
+}
+.LeftColumn
+{
+	float: left;	
+}
+.LeftColumn2
+{
+	float: left;
+	width: 65%;
+}
+.RightColumn
+{
+	float: right;	
+}
+.RightColumn2
+{
+	width: 33%;
+	margin-left: 10px;
+	float: left;
+	margin-top: 15px;
+}
+.OrderSummary
+{
+	background-color: #FFFFFF;
+	border: thin solid #999;
+	padding: 15px;
+	margin-bottom: 20px;
+	min-width: 350px;
+}
+.OrderSummary td
+{
+	
+}
+.Head3
+{
+	font-size: 16px;
+	font-weight: bold;
+	color: #005f94;	
+	line-height: 18px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.CCImages
+{
+	float: left;
+	clear: both;
+	padding-top: 10px;
+}
+.CCForm
+{
+	float: left;
+	clear: both;
+}
+.CCStatement
+{
+	padding-top: 10px;
+	padding-bottom: 10px;	
+}
+#siteseal
+{
+ 	margin-right: 15px;
+	margin-bottom: 15px;
+	margin-left: 10px;
+	}
+	#lblCC
+	{
+	font-weight: bold;
+	color: #F00;
+	}
+.CartContainer2
+{
+	margin-left: 2%;
+	float: left;
+	clear: both;
+	}
+	.CartContainer3
+{
+	float: left;
+	clear: both;
+	padding-top: 15px;
+	}
+.CartGridContainer
+{
+	margin-left: 10px;
+	width: 100%;
+	clear: both;
+	float: left;
+	margin-bottom: 10px;
+	}
+	.CartGridContainer a
+{
+	font-weight: bold;
+	}
+	.CheckoutButtons
+	{
+	margin-top: 10px;
+	clear: both;
+	float: left;
+	width: 400px;
+	margin-left: 10px;
+	}
+	.CheckoutStepsContainer
+	{
+
+	}
+	.CheckoutStepsContainerThanks
+	{
+	float: left;
+	margin-bottom: 20px;
+	width: 100%;
+	background-color: #E6E6E6;
+	}
+	.CheckoutStepsContainerThanks td
+	{
+	text-align: center;
+	vertical-align: middle;
+	}
+	.CheckoutCartContainer
+	{
+	float: left;
+	margin-bottom: 20px;
+	width: 100%;
+	text-align: center;
+	vertical-align: middle;
+	margin-left: -8px;
+	}
+	.CheckoutCartContainer3
+	{
+	float: left;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	clear: both;
+	margin-top: 10px;
+	}
+	.CheckoutCartContainer2
+	{
+	float: left;
+	margin-top: 30px;
+	clear: both;
+	width: 100%;
+	}
+	.CheckoutThanksStatements
+	{
+	font-size: 10pt;
+	line-height: 13pt;
+	white-space: normal;
+	}
+	 .activeSublinkCheckout {
+	color: #005f94;
+}
+.Empty1
+{
+	font-weight: bold;
+	}
+.StartShopping
+{
+
+}
+.CheckoutEmpty
+{
+	float: left;
+	width: 100%;
+	text-align: center;
+	}
+.ErrorMsgExport
+	{
+	color: #F00;
+    }
+.ExportRestrictedMessage {
+	text-align: left;
+	color: #F00;
+	font-size: 10pt;
+	line-height: 12pt;
+ }
+ .ShippingAddressInput
+ {
+	margin-left: 28px;
+ }
+	/*Checkout Shipping End */
+		.UploaderClass
+	{
+	height: 100%;
+	clear: both;
+	float: left;
+	width: 70%;
+    }
+		.UploaderClass2
+	{
+	height: 100%;
+	clear: both;
+	float: left;
+	width: 70%;
+	position: relative;
+    }
+/*HomePage */
+	.Right-Column-Main
+	{
+	padding-left: 15px;	/*float: right;
+	position: relative;
+	max-width: 78%;
+	min-width:400px;*/
+    }
+	.Sub-Info-Home h4
+{
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+.TabTitle
+{
+	margin-bottom: 0px;
+	font-weight: normal;
+	font-size: 24pt;
+	margin-top: 0px;
+}
+.Sub-Info-Home
+{
+	float: left;
+	position: relative;
+}
+/*HomePageLeftNavigation */
+#nav {
+
+}
+#nav ul{
+margin:0;
+padding:0;
+list-style-type:none;
+}
+
+#nav ul li{
+	display: inline; /*IE 6*/
+	}
+
+#nav ul li a {
+	display:block;
+	text-decoration:none;
+	padding:4px/*padding for top, bottom*/ 7px /*padding for left, right*/;
+	color:#4d4f50;
+	background-color: #FFFFFF;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #cccccc;
+	font-weight: bold;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #cccccc;
+	border-left-color: #cccccc;
+}
+
+#nav ul li a:hover {
+	color:#fecc6b;
+	background:#4d4f50;
+}
+.HeaderTemplateLogo
+{
+
+}
+.HeaderContainer
+{
+	float: left;
+	clear: both;
+	width: 100%;
+}
+/*Navigation Tabs 
+.NavigationTabInnerDiv
+{
+	width: 80%;
+	min-width:500px;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-image: url(../../images/tab-bg.jpg);
+	background-repeat: repeat-x;
+	clear: both;
+	float: left;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	height: 50px;
+	padding-top: 12px;
+}
+.NavigationTabInnerDiv a
+{
+	color: #CCC;
+	padding-right: 20px;
+	float: left;
+	padding-left: 15px;
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-right-color: #1e1e1e;
+}
+.NavigationTabSelectedItem a
+{
+	color: #98BDEB;
+	font-weight: bold;
+}
+
+.NavigationTabList
+{
+	
+}
+*/
+.NavigationTabItem
+{
+visibility:hidden;
+	height: 0px;
+	width: 0px;
+}
+.NavigationTabSelectedItem
+{
+	visibility:hidden;
+	height: 0px;
+	width: 0px;
+}
+.NavigationTabInnerDiv
+{
+	visibility:hidden;
+	height: 0px;
+	width: 0px;
+}
+.Header-2
+{
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.Social-Media
+{
+
+}
+.StayConnected
+{
+	float: left;
+	color: #252525;
+	padding-top: 10px;
+	padding-right: 10px;
+	font-weight: 700;
+}
+.CustomQuote
+{
+	font-size: 18pt;
+}
+.phonenumberheader
+{
+	color: #005f94;
+	font-size: 18pt;
+}
+.OutterCateBox
+{
+	float: left;
+	height: 170px;
+	width: 192px;
+	background-image: url(http://www.connect-components.com/images/Category-Image-Background.png);
+	background-repeat: repeat-x;
+	border: thin solid #999;
+	margin-top: 3px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	background-color: #f7f4ee;
+	text-align: center;
+	vertical-align: middle;
+	position: relative;
+}
+.OutterCateBoxImage
+{
+	height: 120px;
+	text-align: center;
+	vertical-align: middle;
+	margin-right: auto;
+	margin-left: auto;
+}
+.CategoryName
+{
+	clear: both;
+	float: right;
+	background-image: url(http://www.connect-components.com/images/category-name-background.png);
+	background-repeat: repeat-x;
+	height: 40px;
+	width: 190px;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 14pt;
+	color: #FFF;
+	padding-top: 5px;
+	margin-top: 10px;
+}
+.CategoryName a
+{
+	color: #FFF;
+}
+.signup-newsletter-text
+{
+	color: #2165b9;
+	font-weight: bold;
+	font-size: 17pt;
+}
+.second-text
+{
+	font-size: 14pt;
+}
+#exampleInputEmail2
+{
+	margin-top: 5px;	
+}
+.Featured-Products
+{
+	
+}
+.Featured-Products h4
+{
+	margin-bottom: 0px;
+	font-weight: normal;
+	font-size: 24pt;
+	margin-top: 15px;
+}
+.Featured-Product-Box
+{
+	min-height: 200px;
+	float: left;
+	background-color: #FFF;
+	border: thin solid #D3D3D3;
+	margin-right: 15px;
+	margin-left: 15px;
+	margin-top: 15px;
+	min-width: 210px;
+}
+.Featured-Product-Price
+{
+	color: #FFF;
+	background-color: #144b8d;
+	font-weight: bold;
+	padding: 5px;
+	max-width: 70px;
+	text-align: center;
+	vertical-align: middle;
+}
+.Featured-Product-Picture
+{
+	text-align: center;
+	vertical-align: middle;	
+}
+.Featured-Product-Description
+{
+	text-align: center;
+	vertical-align: middle;
+}
+.Featured-Product-Cart-Button
+{
+	text-align: center;
+	vertical-align: middle;
+	background-color: #363636;
+	font-weight: normal;
+	color: #FFF;
+	padding: 5px;
+	width: 75px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+.Featured-Product-Cart-Button a
+{
+	font-weight: normal;
+	color: #FFF;
+}
+.sgn_btn
+{
+	font-weight: bold;
+	color: #FFF;
+	background-color: #005f94;
+	margin-top: 5px;
+}
+.ParametricPriceBreakLink
+{
+	font-weight: bold;
+}
+
+#pnlSearch 
+{
+	padding: 5px;
+	background-color: #eeeeee;
+}
+.SpecialPanel input {
+	color: #FFFFFF;
+	background-color: #005f94;
+	margin-left: 5px;
+    }
+	.SpecialPanel {
+	background-color: #eeeeee;
+	padding-top: 5px;
+	padding-bottom: 5px;
+    }
+	
+/*Sign In and Forgot Password*/ 
+	#tblSignon
+	{
+
+    }
+	#tblSignon input
+	{
+	padding: 5px;
+	margin-bottom: 4px;
+    }
+	#tblSignon td
+{
+	padding: 5px;
+}
+	.SigninBox
+	{
+	width: 450px;
+	border: thin solid #CCC;
+	background-color: #FFF;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-right: 30%;
+	margin-left: 30%;
+	min-height: 115px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+    }
+	.EmailContainer
+	{
+	float: left;
+	margin-top: 10px;
+	min-width: 400px;
+	font-weight: bold;
+	padding: 5px;
+    }
+	.ForgotEmailContainer
+	{
+	float: left;
+	margin-top: 10px;
+	min-width: 400px;
+	padding: 5px;
+	font-weight: bold;
+    }
+	#txtEmail
+	{
+	padding: 3px;
+	margin-right: 5px;
+	margin-left: 5px;
+    }
+.PortalSignon 
+{
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 500px;
+	padding: 10px;
+	text-align: center;
+	vertical-align: middle;
+	width: 70%;
+}
+.PortalSignon tr 
+{
+	padding: 3px;
+}
+
+#Label12
+{
+	color: #FFF;
+	font-size: 14pt;
+	font-weight: bold;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding-top: 3px;
+	padding-right: 8px;
+	padding-bottom: 5px;
+	padding-left: 8px;
+	background-image: url(http://www.connect-components.com/images/bg-gradient-2.jpg);
+	background-repeat: repeat-x;
+	height: 40px;
+}
+.pa-table
+{
+	width: 100%;
+}
+
+#pnlTechInquiry
+{
+	width: 100%;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.PDsecondHeader
+{
+	font-weight: bold;
+	color: #266bc0;
+	margin-top: -8px;
+	margin-bottom: 15px;
+}
+#pnlRightContent td
+	{
+	padding: 3px;
+	min-width: 75px;
+	}
+	.AdditionalProductContentInnerDiv
+	{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border: 1px solid #CCC;
+	background-color: #FFF;
+	padding: 10px;
+	border-radius: 4px;
+	/*border: 1px solid #CCC;*/
+	}
+	.AdditionalProductContentOuterDiv
+{
+
+}   
+.ProductSpecificationCtrl
+{
+	margin-bottom: 20px;
+	/*border: 1px solid #CCC;	
+	 	border-radius: 4px;*/
+}
+.ProductSpecificationCtrl table
+{
+	border: 1px solid #CCC;
+	background-color: #FFF;
+	border-radius: 4px;
+}
+.ProductDetails
+{
+		
+	}
+	.ProductDetails table
+{
+	/*border: 1px solid #CCC;
+	border-radius: 4px;
+	background-color: #FFF;*/
+	}
+	.ProductAvailability table
+	{
+	/*border: 1px solid #CCC;
+	background-color: #FFF;
+	border-radius: 4px;*/
+	}
+	.ProductAvailability 
+	{
+	
+	}
+ 	.ProductPricing table
+ 	{
+	/*border: 1px solid #CCC;
+	background-color: #FFF;
+	border-radius: 4px;*/
+	}
+	.ProductPricing
+ 	{
+ 	padding-bottom: 15px;
+	}
+
+	.btn-primary {
+	color: #fff;
+	background-color: #005f94;
+	border-color: #fff;
+}
+#btnClearFilters
+{
+	color: #fff;
+	background-color: #005f94;
+	border-color: #fff;
+	font-size: 9pt;
+}
+#btnApplyFilters
+{
+	color: #fff;
+	background-color: #005f94;
+	border-color: #fff;
+	font-size: 9pt;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary.focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+	color: #fff;
+	background-color: #4d4f50;
+	border-top-color: #666666;
+	border-right-color: #666666;
+	border-bottom-color: #666666;
+	border-left-color: #666666;
+}
+.Qty2
+{
+	padding-top: 15px;	
+}
+.LDIV{ width:400px; float:left;}
+
+.RDIV{ width:400px; float:right;}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 
+{
+  position: relative;
+  min-height: 1px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.ContentPDPage
+ {
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	float: left;
+	clear: both;
+	padding-right: 10%;
+	padding-left: 10%;
+}
+.PricingTable td
+{
+	width: 150px;
+}
+.PricingTable
+{
+	margin-top: 5px;	
+}
+
+.PDMainHeader, .PDsecondHeader
+{
+  padding-left: 10px;
+}
+.table > thead > tr > th,
+.table > tbody > tr > th,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > tbody > tr > td,
+.table > tfoot > tr > td {
+  padding: 8px;
+  line-height: 1.42857143;
+  vertical-align: top;
+  border-top: 0px solid #fff;
+}
+.table > thead > tr > th {
+  vertical-align: bottom;
+  border-bottom: 0px solid #fff;
+}
+.table > tbody + tbody {
+  border-top: 0px solid #fff;
+}
+.searchButton
+{
+	background-color: #ffad11;
+}
+h4
+{
+ 	margin-bottom: 0px;
+	font-weight: normal;
+	font-size: 24pt;
+	margin-top: 15px;
+	}
+	.mid-section
+	{
+	padding-bottom: 10px;
+	background-color: #3d1fb0;
+	}
+.FPbackground
+{
+	border-top-width: thin;
+	border-top-style: solid;
+	border-top-color: #CCC;
+	background-color: #f3f3f3;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	max-width: 1140px;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 30px;
+	padding-left: 15px;
+		}
+.FPbackground2
+{
+	padding-bottom: 20px;
+	border-top-width: thin;
+	border-top-style: solid;
+	border-top-color: #CCC;
+	background-color: #efefef;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	max-width: 1140px;
+	}
+.Newsletter-Image
+{
+	margin-top: 20px;
+	margin-bottom: 15px;
+	}
+	.Welcome-Content
+	{
+	padding-top: 15px;
+	padding-bottom: 15px;	
+	padding-left: 20px;
+	padding-right: 15px;
+	}
+	.Sub-Footer-Header
+	{
+	padding-top: 15px;
+	margin-left: 20px;
+	}
+	.Sub-Footer-Header2
+	{
+	padding-left: 25px;
+	}
+	.p1db-footer
+	{
+
+	}
+	.Header-Links-Padding
+	{
+	padding-right: 5px;
+	margin-left: 25px;
+	}
+	.DimensionPaneParametric
+	{
+		
+	}
+	.RefinmentHeader
+	{
+	padding: 3px;		
+	}
+	.LoginDiv a
+	{
+	padding: 3px;
+	color: #0F0;
+	}
+	#imgCompare2
+	{
+	visibility:hidden;
+	}
+	#lblCart
+	{
+	float: left;
+	}
+	.HeadCheckout
+{
+	font-weight: bold;
+	color: #005f94;
+}
+HeadCheckout
+{
+	font-weight: bold;
+	color: #fff;
+}
+.ProductDetailButtonDiv
+{
+	padding-bottom: 10px;
+	padding-top: 5px;		
+}
+#lblSearchResultDetail
+{
+	padding-left: 15px;
+	font-weight: bold;
+}
+#pnlCategory
+{
+	margin-top: 5px;	
+}
+#pnlBreadCrumbs
+		{
+	margin-top: -10px;
+        }
+.CategoryPanel
+{
+	padding-left: 15px;	
+}
+.Container_Terms
+{
+	margin-bottom: 15px;	
+}
+#tblSetup td
+{
+	padding: 3px;
+}
+#rbShipMethod_tblCarriers td
+{
+	padding: 3px;
+}
+#rbShipMethod_tblCarriers input[type="radio"]
+{
+	margin-right: 3px;
+}
+/*OverwriteBootStrapNav*/
+.SelectedAddressItem
+{
+	
+}
+.fpImage
+{
+	height: 145px;
+	width: 145px;	
+}
+.ModelNoHeader
+{
+	font-weight: bold;	
+}
+.RFMW-Logo-Distributor
+{
+	padding-top: 15px;		
+	padding-bottom: 15px;		
+}
+.page-background-2
+{
+	background-color: #FFF;
+	margin-bottom: 15px;
+	padding-left: 30px;
+	margin-top: -30px;
+	padding-right: 30px;
+}
+.page-background
+{
+	width: 100%;
+	position: relative;
+	padding:0;
+    margin:0;
+}
+
+.page-background-2a
+{
+	padding: 5px;
+
+}
+.container-fluid-2
+{
+	width: 100%;
+}
+.Categories {
+	padding-top: 25px;
+	margin-left: 10px;
+	font-size: 32px;
+}
+#Table1 table
+{
+	width: 100%;	
+}
+.RelatedContentCtrl
+{
+	
+}
+.custom-panel
+{
+	border: 1px solid #E2E2E2;
+	padding: 2px;
+}
+.custom-html-panel
+{
+	max-height: 400px;
+	overflow-y:scroll;
+	padding: 10px;
+}
+.custom-padding
+{
+	margin-right: 15px;
+	margin-left: 15px;
+}
+.EmptyContainer
+{
+	margin-right: 15px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+	border: thin solid #CCC;
+	padding: 5px;
+}
+.breadcrumb-checkout
+{
+	background-color: #E6E6E6;
+	padding: 3px;
+	text-align: right;
+	margin-bottom: 10px;
+}
+.cart-checkout
+{
+	margin-top: 10px;
+	margin-bottom: 15px;	
+}
+.btn-padding
+{
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.custom-padding-btn
+	{
+	margin-left: 10px;	
+    }
+.PaddingContainer-2
+	{
+	padding: 4px;
+    }
+	.fpProductImage
+	{
+	height: auto;
+	width: 125px;
+	text-align: center;
+	vertical-align: middle;
+    }
+	.button-gr-margin
+	{
+
+    }
+/* Overwrite-Bootstrap Navigation */
+.padding-header
+{
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.navbar {
+	background-color: #4d4f50;
+	border-bottom-style: none;
+	border-radius: 0 !important;
+	-moz-border-radius: 0 !important;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	vertical-align: middle;
+	padding-top: 0px;
+}
+.navbar-collapse
+{
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	background-color: #4d4f50;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: white;
+	text-decoration: none;
+	padding-right: 20px;
+	text-align: center;
+	vertical-align: middle;
+	font-weight: bold;
+	background-color: #4d4f50;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+	background-color: #4d4f50;
+}
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:focus {
+	color: white;
+	background-color: #4d4f50;
+}
+.navbar-default .navbar-nav > .active > a:hover
+{
+	text-decoration: underline;
+	color: #fecc6b;
+	background-color: #4d4f50;
+}
+
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {
+	
+	background-color: #4d4f50;
+}
+/* caret */
+.navbar-default .navbar-nav > .dropdown > a .caret {
+    border-top-color: #fff;
+    border-bottom-color: #fff;
+}
+.navbar-default .navbar-nav > .dropdown > a:hover .caret,
+.navbar-default .navbar-nav > .dropdown > a:focus .caret {
+    border-top-color: #fff;
+    border-bottom-color: #fff;
+}
+.navbar-default .navbar-nav > .open > a .caret, 
+.navbar-default .navbar-nav > .open > a:hover .caret, 
+.navbar-default .navbar-nav > .open > a:focus .caret {
+    border-top-color: #fff;
+    border-bottom-color: #fff;
+}
+
+
+.navbar .navbar-brand {
+  color: white;
+}
+
+.navbar.navbar-text {
+  margin-bottom: 0;
+  color: white;
+}
+.navbar .navbar-link {
+  color: white;
+}
+.navbar .navbar-link:hover {
+  color: #fecc6b;
+}
+.navbar-toggle
+ {
+	background-color: #FFF;
+}
+
+#nav {
+	max-width: 300px;
+}
+#nav ul{
+margin:0;
+padding:0;
+list-style-type:none;
+}
+
+#nav ul li{
+	display: inline; /*IE 6*/
+	}
+
+#nav ul li a {
+	display:block;
+	text-decoration:none;
+	padding:3px /*padding for left, right*/;
+	color:#005f94;
+	background-color: #FFFFFF;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #cccccc;
+	font-weight: bold;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #cccccc;
+	border-left-color: #cccccc;
+}
+
+#nav ul li a:hover {
+	color:#fecc6b;
+	background-color: #F2F2F2;
+}
+.tab-position
+{
+	margin-left: -35px;
+	margin-top: -10px;
+	}
+.manf-header
+	{
+	margin-top: 10px;
+    }
+	.middle-page-category
+	{
+margin-top: -20px;
+    }
+	/* New RSS */
+#rssDiv
+{
+	max-height: 525px;
+	overflow-y: scroll;
+	background-image: url(http://www.connect-components.com/images/bg_sidebartable.jpg);
+	background-repeat: repeat-x;
+	border: 1px solid #CCC;
+	padding: 5px;
+	text-align: left;
+	vertical-align: top;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.rssBody
+{
+	
+}
+.scroll-box-banners-hp
+{
+	max-height: 250px;
+	overflow-y: scroll;
+}
+#rssDiv h2
+{
+	margin-bottom: 5px;
+	margin-left: 10px;
+	color: #005f94;
+}
+.rssFeed li
+{
+	list-style-type: none;	
+	margin-left: -30px;	
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+}
+.rssFeed a
+{
+	color: #005f94;
+}
+.rssFeed a:hover
+{
+	color: #fecc6b;
+}
+.rssSummary
+{
+	margin-bottom: 10px;
+}
+.rssTitle
+{
+	font-weight: bold;
+	text-decoration: underline;
+	margin-top: 10px;
+	color: #005f94;
+}
+.rssDate
+{
+	font-weight: bold;
+
+}
+.ManfDetailHeadings h1
+{
+	color: #005f94;
+	font-weight: bold;
+	margin-top: -5px;
+}
+.ManufacturerHeading h1 {
+	margin-top: -10px;
+	color: #005f94;
+ }
+ .ManufacturerHeading {
+	color: #005f94;
+ }
+
+ #ProductsNavSelectedType1
+ {
+	color: #005f94;
+ }
+ .ProductTypeHeadingMarket
+  {
+	visibility:hidden;
+	height: 0px;
+	width: 0px;
+ }
+ .Technical-Inq-Header
+ {
+	color: #005f94;
+ }
+.ManfDetailHeadings h3
+{
+	margin-top: -10px;	
+}
+.brokenReel
+{
+	margin-top: 10px;
+	clear: both;
+	float: left;
+}
+.container
+{
+	width: 100%;
+	position: relative;
+	padding:0;
+    margin:0;
+}
+.background-top-header
+{
+	background-color: #005f94;
+}
+.tagline-2
+{
+	font-style: italic;
+	font-weight: bold;
+	text-align: left;
+	margin-top: 20px;
+	color: #FFF;
+	padding-bottom: 5px;	
+} 
+.subLinkPadding a
+{
+	font-weight: bold;
+	color: #fecc6b;
+	padding-left: 10px;
+	padding-right: 10px;
+	white-space: nowrap;
+} 
+.subLinkPadding a:hover
+{
+	color: #eeeeee;
+}
+.hp-title
+	{
+	background-color: #005f94;
+	color: #FFF;
+	font-weight: bold;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding: 5px;
+    }
+	.product-title
+	{
+	background-color: #005f94;
+	color: #FFF;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding: 5px;
+    }
+
+	.product-title-tools
+	{
+	background-color: #089a8f;
+	color: #FFF;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding: 5px;
+    }
+	.product-title-tools a
+	{
+	color: #FFF;
+	text-decoration: underline;
+    }
+	.applications-title
+	{
+	background-color: #e4e4e4;
+	color: #2a0c90;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding: 5px;
+	margin-top: 10px;
+	border: thin solid #999;
+    }
+	.applications-title-2
+	{
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	background-color: #F0F0F0;
+    }
+	.product-title a
+	{
+	color: #FFF;
+	text-decoration: underline;
+    }
+	.product-title a:hover
+	{
+	color: #fecc6b;
+	text-decoration: underline;
+    }
+.hp-links a
+{
+	padding: 15px;
+} 
+.home-page-product
+{
+	/* background-image: url(/images/bg_sidebartable.jpg);
+	background-repeat: repeat-x;*/
+	border: thin solid #CCC;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding: 5px;
+} 
+.home-page-product-2
+{
+	/* background-image: url(/images/bg_sidebartable.jpg);
+	background-repeat: repeat-x;*/
+	border: thin solid #CCC;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding: 5px;
+	min-height: 160px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+} 
+.home-page-product img
+{
+	text-align: center;
+	vertical-align: middle;
+	margin-right: auto;
+	margin-left: auto;
+} 
+.hp-banner-img
+{
+	padding: 10px;
+}
+/* only Firefox */
+@-moz-document url-prefix() {
+.img-responsive, .thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+width: 100%;
+}
+} 
+.home-page-product
+{
+	margin-bottom: 25px;
+}
+.welcome-message-style
+{
+	color: #FFF;	
+}
+.title-hp-1
+{
+	color: #005f94;
+	font-size: 30px;
+	line-height: 40px;
+	margin-left: 10px;
+	padding-bottom: 10px;
+}
+.TableHeaderTabs
+{
+	color: #fff;
+	font-size: 24px;
+	margin-bottom: 10px;
+	background-color: #005f94;
+	padding-left: 10px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+.TableHeaderTabs2
+{
+	color: #fff;
+	font-size: 24px;
+	margin-bottom: 10px;
+	background-color: #005f94;
+	padding-left: 10px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	line-height:36px;
+}
+.custom-lit-panel
+{
+	text-align: center;
+	vertical-align: middle;
+	margin-bottom: 10px;
+}
+.hp-text-btm
+{
+	margin-bottom: 20px;
+}
+.background-custom
+{
+	background-color: #005f94;
+}
+.padding-text
+{
+	margin-top: 10px;
+}
+.side-bar-padding-top
+{
+	padding-bottom: 10px;
+}
+.hp-padding-txt
+{
+	margin-bottom: 20px;
+}
+.custom-padding-btn-pop-up
+{
+	margin-top: 20px;
+}
+.TableHeaderPopUp
+{
+	background-color: #E1E1E1;
+	color: #000;
+}
+.TableHeaderPopUpBold
+{
+	background-color: #E1E1E1;
+	color: #000;
+	font-weight: bold;
+}
+.products-spacing
+{
+	margin-top: 25px;	
+}
+
+.LineCardLink
+{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-left: 25px;
+}
+.LineCardDiv
+{
+	padding-bottom: 10px;
+}
+.padding-version
+{
+	padding-top: 15px;
+	color: #2c9cdb;
+}
+/*Manf-Nav Control*/
+.manf-nav {
+	max-height: 600px;
+	overflow-y: scroll;
+	margin-bottom: 20px;
+}
+#ctl03_repManf_ctl39_HyperLink3
+{
+	color: #005f94;
+}
+
+.manf-nav ul{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+}
+
+.manf-nav ul li{
+	display: inline; /*IE 6*/
+	}
+
+.manf-nav ul li a {
+	display:block;
+	text-decoration:none;
+	color:#000;
+	background-color: #eeeeee;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #cccccc;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #cccccc;
+	border-left-color: #cccccc;
+	padding-top: 2px;
+	padding-right: 3px;
+	padding-bottom: 2px;
+	padding-left: 7px;
+}
+.manf-nav ul li a:hover {
+	color:#fecc6b;
+	background-color: #4d4f50;
+}
+
+
+.manf-nav-2 ul{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+}
+
+.manf-nav-2 ul li{
+	display: inline; /*IE 6*/
+	}
+
+.manf-nav-2 ul li a {
+	display:block;
+	text-decoration:none;
+	color:#000;
+	background-color: #eeeeee;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #666666;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #cccccc;
+	border-left-color: #cccccc;
+	padding-top: 2px;
+	padding-right: 3px;
+	padding-bottom: 2px;
+	padding-left: 7px;
+}
+.manf-nav-2 ul li a:hover {
+	color:#666666;
+	background-color: #CCCCCC;
+}
+.SidebarControlsProducts
+{
+	background-color: #eeeeee;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #cccccc;
+	border-left-color: #cccccc;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #cccccc;
+	margin-bottom: 15px;
+}
+
+.hoverStyle 
+{
+	color:#000;
+	z-index: 999;
+	background-color: #eeeeee;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+	height: 25px;
+	padding-left: 10px;
+	padding-right: 5px;
+}
+.hoverStyle:hover
+{
+	color:#fecc6b;    
+}
+#ctl02_menuProducts
+{
+	margin-top: -15px;
+	z-index: 999;
+}
+.All-Manf
+{
+	padding-top: 10px;	
+	padding-bottom: 10px;	
+}
+
+/*END Manf-Nav Control*/
+.Left-Column-Main
+	{
+	color: #FFF;
+	font-size: 12pt;
+	font-weight: normal;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	margin-bottom: -5px;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 10px;
+	padding-left: 8px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #005f94;
+	font-weight: bold;
+    }
+	.border-em-panels
+	{
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	border: thin solid #CCC;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	min-height: 300px;
+    }
+	.btn-padding-em
+	{
+	margin-top: 10px;
+    }
+	.EM-Headers
+	{
+	color: #FFF;
+	font-size: 12pt;
+	font-weight: normal;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 10px;
+	padding-left: 8px;
+	background-color: #026d97;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	margin-bottom: 10px;
+    }
+	.EM-Headers a
+	{
+	color: #FFF;
+	font-weight: bold;
+    }
+	.EM-Headers a:hover
+	{
+	color: #CCCCCC;
+    }
+	.Left-Column-Main a
+	{
+	color: #FFF;
+	font-weight: bold;
+    }
+	.Left-Column-Main a:hover
+	{
+	color: #fecc6b;
+    }
+	
+	
+	.Left-Column-Main-Gray
+	{
+	color: #FFF;
+	font-size: 12pt;
+	font-weight: normal;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #4d4f50;
+	font-weight: bold;
+    }
+	.Left-Column-Main-Gray a
+	{
+	color: #FFF;
+	font-weight: bold;
+	text-decoration: underline;
+    }
+	.Left-Column-Main-Gray a:hover
+	{
+	color: #fecc6b;
+    }
+	.SidebarControlstitle
+	{
+	color: #FFF;
+	font-size: 12pt;
+	font-weight: bold;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	margin-bottom: -5px;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 10px;
+	padding-left: 8px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #005f94;
+    }
+	.ProductSummary
+	{
+	padding: 5px;
+    }
+	.middle-custom
+{
+	float: left;
+	position: relative;
+}
+.other-sites-links
+{
+	background-color: #eeeeee;
+	padding: 5px;
+}
+.other-sites-links2
+{
+	background-color: #eeeeee;
+	padding: 1px;
+	border: thin solid #005f94;
+}
+.line-card-img
+{
+	
+}
+.warehouse-cert
+{
+
+}
+.other-sites-links-logo
+{
+	background-color: #eeeeee;
+	padding: 5px;
+	clear: both;
+}
+.other-sites-links a
+{
+	text-decoration: underline;
+	padding-bottom: 2px;
+	padding-left: 2px;
+}
+.other-sites-links-3
+{
+	padding: 10px;
+	border: thin solid #CCC;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	margin-bottom: 15px;
+	background-image: url(http://www.connect-components.com/images/bg_sidebartable.jpg);
+	background-repeat: repeat-x;
+}
+.other-sites-links-3 a
+{
+	text-decoration: underline;
+	padding-bottom: 2px;
+	padding-left: 2px;
+}
+.other-sites-links-4
+{
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+.other-sites-links-4 ul
+{
+	padding-top: 10px;	
+}
+.middle-hp2
+{
+	max-width: 770px;
+	margin-top: -10px;
+}
+.middle-hp3
+{
+	max-width: 880px;
+}
+.center-middle-module
+{
+	text-align: center;
+	vertical-align: middle;	
+}
+.col-height
+{
+	margin-bottom: 15px;	
+}
+.connect-spacing
+{
+	margin-bottom: 20px;	
+}
+.hp-para
+{
+	margin-top: 5px;
+	margin-bottom: 20px;	
+}
+.hp-para a
+{
+	text-decoration: underline;	
+}
+.LineCardItem
+{
+	display:block;
+	text-decoration:none;
+	color:#000;
+	background-color: #eeeeee;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #666666;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #cccccc;
+	border-left-color: #cccccc;
+	padding-top: 2px;
+	padding-right: 3px;
+	padding-bottom: 2px;
+	padding-left: 3px;
+	}
+	.LineCardItem a
+{
+	
+	text-decoration:none;
+	color:#000;
+	
+	
+	}
+	
+	.LineCardItem a:hover {
+	color:#fecc6b;
+	text-decoration: underline;
+}
+.LineCardSpan
+{
+	color: #FFF;
+	font-size: 12pt;
+	font-weight: bold;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	margin-bottom: -5px;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 10px;
+	padding-left: 8px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #005f94;
+}
+ .AskAnEngineer
+ {
+	color: #FFF;
+	font-size: 12pt;
+	font-weight: bold;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	margin-bottom: 0px;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 10px;
+	padding-left: 8px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #005f94;
+	margin-top: 15px;
+	margin-bottom: 10px;
+ }
+ .ProductsNavSelectedType1_tvProdType_2
+  {
+	color: #005f94;
+	font-size: 30px;
+	line-height: 40px;
+ }
+ #ProductsNavSelectedType1_tvProdType
+ {
+	margin-top: -40px;	
+ }
+ .LineCardtable
+ {
+	width: 100%;
+ }
+ .MarketImage
+ {
+	visibility:hidden;
+	height: 0px;
+	width: 0px;
+ }
+ .market-content-des
+ {
+		margin-bottom: 15px;
+ }
+ .market-para-2
+ {
+		margin-bottom: 15px;
+ }
+ .market-content-pos
+ {
+	margin-top: -10px;	
+ }
+  .padding-pd-top
+ {
+	margin-top: -15px;	
+ }
+ edit-hyperlink
+{
+	font-weight: bold;
+	padding: 5px;
+	color: #005f94;
+	margin-left: 10px;
+	z-index: 999;
+	text-decoration: underline;
+	margin-bottom: 30px;
+}
+.edit-hyperlink a
+{
+	color: #3A66E7;
+	background-color: #EBEBEB;
+	font-size: 14pt;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.edit-hyperlink a:hover
+{
+	color: #fecc6b;
+}
+.tech-inq-btn
+{
+	padding-bottom: 10px;	
+}
+.TableHeaderTabs-ContactUs
+	{
+	color: #fff;
+	font-size: 24px;
+	margin-bottom: 10px;
+	background-color: #666666;
+	padding-left: 10px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	text-align: center;
+	vertical-align: middle;
+	}
+	#ctrlReportInput_ctl01_lblSelectCDICompany
+{
+	color: #005f94;
+	font-size: 24px; 
+	line-height: 26px;
+}
+.table-info input[type="radio"]
+{
+	margin-right: 3px;
+}
+.table-info
+{
+	margin-top: 35px;
+}
+
+#ctrlGrid_grdReport
+{
+	background-color: #FFF;
+
+}
+#ctrlReportGrid_gridReport
+{
+	background-color: #FFF;
+
+}
+#ctrlReportGrid_gridReport a
+{
+	color: #000;
+	text-decoration: underline;
+}
+#ctrlReportGrid_gridReport th
+{
+	font-weight: bold;
+	background-color: #DDD;
+}
+#ctrlReportGrid_gridReport tr
+{
+	background-color: #fff;
+	color: #000;
+}
+.logo-size
+{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.header-search
+{
+	margin-top: 12px;	
+}
+.position-background
+{
+	padding-top: 10px;
+	padding-bottom: 5px;
+} 
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+	background-color: #4d4f50;
+	color: #FFF;
+}
+.table-hover tbody tr:hover td a, .table-hover tbody tr:hover th a {
+	background-color: #4d4f50;
+	color: #FFF;
+}
+#btnFind
+{
+	background-color: #4d4f50;
+	color: #FFF;
+	width: 100%;
+	margin-top: 15px;
+}
+
+.order-status-label
+{
+	margin-top: 15px;
+	font-weight: bold;
+	float: left;
+	position: relative;
+	clear: both;
+	width: 100%;
+}
+.TableBarTitleOR-2
+{
+	/*** 
+	background-color: #1052c2;
+	color: #FFF;
+	font-weight: bold;
+	padding: 3px;
+	width: 100%;
+	margin-bottom: 10px;
+	***/
+	visibility:hidden;
+	height: 0px;
+	width: 0px;
+}
+#SpecProdTypeHeader1_imgProdType
+{
+	max-width: 250px;
+	height: auto;
+}
+.ProductTypeImage-spec
+{
+	float: left;
+	position: relative;
+	margin-right: 15px;
+}

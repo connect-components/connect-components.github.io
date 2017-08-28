@@ -1,0 +1,377 @@
+*{margin:0px;padding:0px;}
+form{margin:0;padding:0; width:100%;}
+img,a img{border:0 none;}
+body{background-color:#FFF;margin:0;padding:0;font-family:Arial,Helvetica,sans-serif;font-size:12px; width:100%;}
+body#main-body{ text-align:center; width:100%; margin:0; padding:0;}
+.mastTOP{ width:100%; height:66px; background-image:url(../1139322/Image/icon/bg_top.gif);}
+.mastTOPMid{ width:1200px; height:66px; margin:auto;}
+.mastTOPMid a{ color:#fff; font-size:18px; text-decoration:none; float:left; vertical-align:bottom;}
+.mastTOPMid a:hover{ color:#fff; text-decoration:none;}
+.mastTOPMid img{ border:0;}
+.mastBottom{ width:100%; height:264px; background-image:url(../1139322/image/icon/bg_footer.png); margin-top:-8px; z-index:10; position:relative;}
+
+
+/*====ucLangSelect.ascx============*/
+.ucLangTB{ float:right; height:33px; background-color:#555555; width:270px;}
+.LangLtd{ padding-left:25px; color:#fff; font-family:Arial;}
+.LangRtd{ padding-right:14px; padding-left:2px;}
+.LangRtd img{ vertical-align:middle; height:18px;}
+
+/*========ucMenu.ascx==============*/
+.menu_bar{width:530px; float:right;height:66px;}
+#imouter0{padding:0; margin:auto; width:530px;}
+#imenus0{ margin:auto; width:530px;}
+#imenus0 .ParentLI{float:left;list-style:none;text-align:center;cursor:pointer; width:122px; text-align:center; }
+#imenus0 .ParentLI a{text-decoration:none; text-transform:uppercase; font-size:16px;
+                       font-family:arial, "Microsoft Yahei","Hiragino Sans GB",sans-serif;color:#fff;line-height:66px; }
+#imenus0 .ParentLI a:hover{color:#fff; }
+#imenus0 .ParentLI .imsc .imsubc ul li a{ color:#fff; height:30px; line-height:30px; font-size:12px;  font-weight:normal;}
+#imenus0 .ParentLI .imsc .imsubc ul li a:hover{ color:#000}
+
+#imenus0 .ParentSelLI{float:left;list-style:none;text-align:center;cursor:pointer; height:66px; width:120px; text-align:center; }
+#imenus0 .ParentSelLI a{text-decoration:none;  font-size:16px; text-transform:uppercase;
+                        font-family:arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif;color:#fff;line-height:66px;}
+#imenus0 .ParentSelLI .imsc .imsubc ul li a{ color:#fff; height:30px; line-height:30px;font-size:12px; font-weight:normal;}
+#imenus0 .ParentSelLI .imsc .imsubc ul li a:hover{color:#000}
+
+
+
+#imenus0 li:hover {color:#fff;}
+#imenus0 li a.ihover, .imde imenus0 a:hover {color:#ddd;border-style:inset; }
+#imenus0 li.em{height:40px;width:1px;margin:0px 0px 0px 0px;  }
+#imenus0 li ul {width:200px;float:left;-webkit-box-shadow:0 3px 10px rgba(0,0,0,0.3);box-shadow:0 3px 10px rgba(0,0,0,0.3);}
+#imenus0 li ul li{float:left;width:200px;text-align:left; text-indent:10px;}
+#imenus0 li ul li a{color:#000;line-height:32px;display:block;text-transform:none; text-transform:uppercase;}
+#imenus0 li ul li:hover{}
+#imenus0 li ul li:hover a{color:#000;line-height:32px;}
+.imcm li a img{display:inline;border-width:0px;}
+.imcm span{display:inline;}
+.imcm .imclear,.imclear{clear:both;height:0px;visibility:hidden;line-height:0px;font-size:1px;}
+.imcm .imsc{position:relative; top:0px; }
+.imcm .imsubc{position:absolute;visibility:hidden;width:200px;background-color:#555555;}
+.imcm .imsubc ul li a{ color:#fff;}
+.imcm li{list-style:none;float:left;list-style:none;text-align:center;cursor:pointer;margin:0px;}
+
+.imcm ul ul li{width:100%;float:none !important;}
+.imcm a{display:block;position:relative;}
+.imcm ul .imsc,.imcm ul .imsubc {z-index:10;}
+.imcm ul ul .imsc,.imcm ul ul .imsubc{z-index:20;}
+.imcm ul ul ul .imsc,.imcm ul ul ul .imsubc{z-index:30;}
+.imde ul li:hover .imsubc{visibility:visible;}
+.imde ul ul li:hover  .imsubc{visibility:visible;}
+.imde ul ul ul li:hover  .imsubc{visibility:visible;}
+.imde li:hover ul  .imsubc{visibility:hidden;}
+.imde li:hover ul ul .imsubc{visibility:hidden;}
+.imde li:hover ul ul ul  .imsubc{visibility:hidden;}
+.imcm .imea{display:block;position:relative;left:0px;font-size:1px;line-height:1px;height:0px;width:1px;float:right;}
+
+
+/*==========ucSearch.ascx==========*/
+.search{ width:270px; height:66px; float:right;}
+.input{ background-image:url(../1139322/Image/icon/bg_search.gif); width:165px; height:26px; border:0; text-indent:10px; float:left; }
+.btn-search{ background-image:url(../1139322/Image/icon/icon_search.jpg); width:23px; height:24px; float:right; margin-right:35px;}
+.SearchTit{ height:50px; line-height:50px; color:#fff; font-size:16px; font-weight:bold; text-align:left; text-indent:20px;} 
+.SearchSEL{ color:#fff; font-family:Arial; line-height:40px; height:40px;}
+.searchTB{ height:66px; width:270px;}
+.LangTD{ color:#FFF; line-height:66px;font-size:16px; text-align:right;  background-color:#000}
+
+
+/*=========index.aspx=======*/
+.indexMidDIV{width:1240px; height:auto; margin:auto;}
+.indexMidDIV .LDIV{ width:226px; float:left; margin-left:5px; height:auto;}
+.indexMidDIV .MDIV{width:362px; height:406px;float:left; margin-left:2px;}
+.indexMidDIV .RDIV{ width:364px; height:auto; float:right; background-color:#25B144;margin-top:20px;}
+.indexBottomDIV{ height:114px; border-top:solid 1px #E3E3E3; background-color:#f5f5f5; background-image:url(http://www.connect-components.com/Images/icon/bg_footer.jpg); background-repeat:repeat-x; background-position:center bottom;
+                width:100%; margin-top:10px;}
+.indexBottomMidDIV{ width:960px; margin:auto; height:114px;}                
+
+
+
+
+
+/*=====================Flash=====================*/
+.imglist{height:390px;width:1240px;text-align:center;}
+.imglist ul{padding:0px;margin:0px;}
+.imglist ul li{text-align:center;list-style:none;padding:0px;margin:0px;}
+.imglist ul li a{text-align:center;text-decoration:none;}
+.imglist ul li img{text-align:center;margin:auto;}
+.btnlist{width:125px;height:20px;position:relative;margin:0 auto;top:-24px;}
+.btnlist ul{float:right;padding-top:5px;}
+.btnlist ul li{list-style:none; float:left;margin-right:20px;}
+.btnlist .selected{cursor:pointer;width:11px;height:11px;display:block;background:none repeat scroll 0% 0% #6c7071;text-indent:-9999px;border-radius:20px;
+                 box-shadow:0px 0px 3px rgba(0, 0, 0, 0.3) inset;}
+.btnlist .normal{cursor:pointer;width:11px;height:11px;display:block;background:none repeat scroll 0% 0% #efefef;text-indent:-9999px;border-radius:20px;
+                 box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3) inset;}
+                 
+.viewArrows{display:block;width:50px;height:50px;line-height:50px;cursor:pointer;text-indent:-99999999px;position:absolute;top:260px;}
+.prev{left:100px;background:url(http://www.connect-components.com/Image/prev.png) center center no-repeat;}
+.next{right:100px;background:url(http://www.connect-components.com/Image/next.png) center center no-repeat;}
+            
+/*=====================Flash=====================*/
+
+
+/*=============ucHomeBrand.ascx============*/
+
+.ucHBrandTB{ width:970px; height:104px;  margin:auto; margin-top:10px; margin-bottom:10px;}
+.ucHBrandTB .ltd{ width:4px; background-image:url(../1139322/Image/icon/bg_brand_left.gif); background-repeat:no-repeat; background-position:right center; font-size:1px;}
+.ucHBrandTB .mtd{background-image:url(../1139322/Image/icon/bg_brand_mid.gif); font-size:1px;}
+.ucHBrandTB .rtd{ width:4px; background-image:url(../1139322/Image/icon/bg_brand_right.gif); font-size:1px;background-repeat:no-repeat; background-position:left center; }
+
+.ucHBrandTit{ font-size:16px; color:#000;  font-weight:bold; height:40px; line-height:40px; text-align:left;}
+.ddlBrand td{ height:104px; line-height:104px; padding-right:30px; vertical-align:middle;}
+.ddlBrand td img{ vertical-align:middle; line-height:74px;}
+
+.ddlHomeLineCard td{ height:104px; line-height:22px; padding-right:100px; vertical-align:top; padding-top:80px; padding-bottom:75px; text-align:left;}
+.ddlHomeLineCard td img{ vertical-align:middle; line-height:74px;}
+/*=====ucFoot.ascx=====*/
+
+
+.foot{width:1060px;margin:0px auto 0px auto;text-align:center;color:#6e6e6e;padding:0px 0px 20px 0px;}
+.foot span{letter-spacing:1px;font-family:Calibri,Arial,Arial Narrow, Geneva, sans-serif;font-size:14px;}
+.foot .foot-item{width:1060px;margin:0px 0px 10px 25px;float:left;}
+.foot .foot-item dl{height:160px;}
+.foot .foot-item dt{font-size:13px;padding:0px 0px 5px 0px;font-family:Calibri,Arial,Arial Narrow, Geneva, sans-serif;}
+.foot .foot-item dt a{ color:#6e6e6e; text-decoration:none;}
+.foot .foot-item dd{margin:0px;padding:0px;color:#FFF; font-size:18px; font-weight:bold; font-family:Calibri,Arial,Arial Narrow, Geneva, sans-serif;}
+.foot .foot-item dd a{color:#6E6E6E;text-decoration:none;line-height:24px;font-size:13px;font-family:Calibri,Arial,Arial Narrow, Geneva, sans-serif;}
+.foot .foot-item dd a:hover{text-decoration:underline;color:#ccc;}
+.foot .foot-item .dl1{border-right:0px solid #A9A9A9;width:240px;float:left;text-align:left;margin:12px 0px 10px 0px;padding:0px;}
+.foot .foot-item .dl1 dt{color:#FFF; margin:0px;margin:5px 0px;float:left;width:240px;}
+.foot .foot-item .dl1 dd{width:130px;color:#FFF; font-size:16px; font-weight:bold;  font-size:14px; margin-bottom:10px; margin-top:30px}
+.foot .foot-item .dl2{border-right:0px solid #A9A9A9;width:240px;float:left;text-align:left;margin:12px 20px 10px 20px;padding:0px;}
+.foot .foot-item .dl2 dt{color:#6e6e6e;margin:0px;margin:5px 0px;float:left;width:240px;}
+.foot .foot-item .dl2 dd{width:160px;font-size:14px; color:#fff;margin-bottom:10px; font-weight:bold; margin-top:30px;}
+.foot .foot-item .dl2 .dd-pay{width:240px;margin:10px 0px 5px 0px;vertical-align:top;line-height:42px;font-family:Calibri,Arial,Arial Narrow, Geneva, sans-serif;
+                              font-size:12px;}
+.foot .foot-item .dl2 .dd-pay img{margin:10px 5px 0px 5px;}
+
+.foot .foot-item .dl3{border-right:0px solid #A9A9A9;width:240px;float:left;text-align:left;margin:12px 20px 10px 20px;padding:0px;}
+.foot .foot-item .dl3 dt{color:#6e6e6e;margin:0px;margin:5px 0px;float:left;width:240px;}
+.foot .foot-item .dl3 dd{width:160px;font-size:16px; color:#fff;margin-bottom:10px; font-weight:bold; margin-top:30px;}
+.foot .foot-item .dl3 .dd-pay{width:240px;margin:10px 0px 5px 0px;vertical-align:top;line-height:42px;font-family:Calibri,Arial,Arial Narrow, Geneva, sans-serif;
+                              font-size:12px;}
+.foot .foot-item .dl3 .dd-pay img{margin:10px 5px 0px 5px;}
+
+.foot .foot-item .dl4{width:240px;float:left;text-align:left;margin:10px 0px;padding:0px;}
+.foot .foot-item .dl4 dt{margin:0px;margin:0px 0px 5px 0px;float:left;width:240px;font-size:14px; color:#1D7ABF;}
+.foot .foot-item .dl4 dd{width:140px;line-height:22px;font-family:Calibri,Arial,Arial Narrow, Geneva, sans-serif; font-weight:bold; color:#fff; font-size:16px; margin-top:30px; margin-bottom:10px;}
+.foot .foot-item .foot-email-ico{float:left;width:18px;margin:7px 5px 0px 0px;}
+.foot .foot-item .foot-div-email{width:150px;float:left;}
+.foot .foot-item .foot-input-email{border:1px solid #00286E;padding:3px 0px;*+padding:5px 0px 4px 0px;outline:none;width:150px;text-indent:2px;}
+.foot .foot-item .foot-btn-send{background:#6E0000;color:#fff;border:0px;font-family:Calibri,Arial,Arial Narrow, Geneva, sans-serif;padding:4px 5px 5px 5px;}
+.COPYdiv{ color:#fff; padding-top:60px;}
+
+
+
+
+
+/*============ucLeftmenu.ascx===============*/
+.ucLeftMenuTB{ width:254px; float:left; background-color:#dddddd; }
+.LeftMenuA{ width:254px;line-height:70px; text-indent:35px; font-family:arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif; font-size:15px; text-align:left;}
+.LeftMenuA a{font-family:arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif; font-size:15px; text-decoration:none;  color:#8E8E8E; text-transform:uppercase;}
+.LeftMenuA a:hover{ background-image:url(../1139322/Image/icon/bg_leftmenu.gif); width:254px; height:70px; display:block;}
+.LeftMenuAs{width:254px;line-height:70px; text-indent:35px; font-family:arial,"Microsoft Yahei","Hiragino Sans GB",sans-serifs; 
+            font-size:15px; text-align:left; background-image:url(../1139322/Image/icon/bg_leftmenu.gif);}
+.LeftMenuAs a{font-family:arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif; font-size:16px; text-decoration:none; color:#323232; text-transform:uppercase;}
+
+
+/*==============Profile/index========*/
+.pProfileDIV{ width:1260px; height:auto; margin:auto;} 
+.pProfileLtd{ width:254px;  background-color:#dddddd; vertical-align:top;}  
+.companyProfileTB{ width:960px; float:right;}
+.CompanyTit{background-color:#E9E9E9;  height:40px; color:#414141; font-size:18px; font-weight:bold; text-indent:20px; text-align:left; text-indent:20px;}                    
+.ComPaDivImg{ width:700px; height:auto;}
+.ComPaDivImg img{ margin:auto;}
+.ComtbContext{ line-height:22px; vertical-align:top; height:400px; padding-top:20px; text-align:left; color:#414141; font-size:14px;}
+
+
+
+
+/*=============ucHomeCompanyProfile.ascx=======*/
+.HomeProfileTB{ width:364px; }
+.HomeCompanyTit{ line-height:40px; color:#fff;font-size:22px; text-align:left; text-indent:20px; padding-top:10px;}
+.HomeConpanyConTD{ line-height:20px; color:#fff; }
+.HomeConpanyConTD .Compadivtext{ padding-left:10px; padding-right:10px; height:182px; overflow:hidden; text-align:left;}
+
+
+/*========ucHomeCategory.ascx===========*/
+.ucHomeCateTB{width:226px; margin-top:20px;}
+.ucHomeCateTB .ucTitTD{ background-image:url(http://www.connect-components.com/Images/icon/bg_category_top.jpg); height:31px;
+                        color:#fff; text-align:center; line-height:31px;  font-size:16px; font-weight:bold; }
+.ucHomeCateConTD{height:178px; vertical-align:top; border:solid 1px #0B9444; border-top:0;}
+.categories-item-title{ text-align:left; line-height:24px; padding-top:5px; color:#18486c; text-indent:23px; line-height:20px;
+                       background-image:url(http://www.connect-components.com/Images/icon/icon_cate.jpg); background-repeat:no-repeat; background-position:8px center;
+                        }
+.categories-item-title a{color:#18486c; text-decoration:none;}
+.categories-item-child{ text-indent:28px; text-align:left;  line-height:18px;                       
+                        }
+.categories-item-child a{color:#18486c; text-decoration:underline;}
+.li_child{ list-style:none;  background-image:url(http://www.connect-components.com/Images/icon/icon_cate.jpg); background-repeat:no-repeat; background-position:16px center; }
+
+
+
+
+/*==========ucHomeCert.ascx=========*/
+.HomeCertTB{ width:480px; float:left;}
+.HomeCertTB .Title{ font-size:16px; color:#000;  font-weight:bold; height:40px; line-height:40px; text-align:left;}
+.ddlCert td{ height:74px; line-height:74px; padding-right:30px;}
+
+
+
+
+
+
+
+/*===============ucProducts.ascx=============*/
+.disnone{ display:none;}
+.divbo{width:700px;}
+.divtop{ width:700px;}
+.tableboco{border:1px solid #e8e7eb;  width:966px; height:32px;  background:url(http://www.connect-components.com/Image/title_bg.gif);
+         background-repeat:repeat-x; margin-top:5px; }
+.trboco{ width:700px;}
+.tdcbx{padding-left:2px;}
+.head{text-align:left;height:29px;font-size:8.5pt;font-weight:bold;vertical-align:middle; 
+            color:#000; border-right:1px solid #e8e7eb;border-bottom:2px solid #c40001}
+.HeadPart{ width:19%; padding-left:4px;}                
+.heads{text-align:left;height:29px;font-size:8.5pt;font-weight:bold;vertical-align:middle; 
+            color:#000;border-bottom:2px solid #a90000 }
+.inventoryitem{text-align:left;font-size:8.5pt;padding-top:0px;vertical-align:middle; color:#000; line-height:28px; 
+                text-indent:5px;  padding-top:10px; padding-bottom:20px;}
+.inventoryitempartno{padding:0px 0px 0px 0px; text-align:left;}
+.inventoryitempartnoright{padding-right:5px;}
+.norecord{color:#8890ae;padding:16px 0px;text-align:center; border-bottom:none;}
+.inventoryitemimg{padding-top:2px;vertical-align:middle;padding-left:2px;}
+.divinventoryitem{padding-left:2px;padding-top:5px !important;padding-top:3px; text-align:left;
+                 height:19px !important;height:24px;border-top:1px solid #e8e7eb;border-bottom:1px solid #e8e7eb;}
+.divinventoryitem1{padding-left:2px;padding-top:5px !important;padding-top:3px;
+                 height:19px !important;height:24px;}
+.divinventoryrightbo{border-right :1px solid #e8e7eb;}
+.divinventoryiteml{padding-left:2px; border-top:1px solid #e8e7eb;border-bottom:1px solid #e8e7eb;      
+                  padding-top:5px !important;padding-top:3px;height:19px !important;height:24px;}
+.divinventoryiteml1{padding-left:2px;padding-top:5px !important;padding-top:3px;height:19px !important;height:24px;}    
+.divinventoryitemr{padding-right:2px;padding-left:2px;  border-top:1px solid #e8e7eb;border-bottom:1px solid #e8e7eb;          
+                  padding-top:5px !important;padding-top:3px;height:19px !important;height:24px;}    
+.divinventoryitemr1{padding-left:2px; padding-top:5px !important;padding-top:3px;height:19px !important;height:24px;}
+.Messegeshow{position: absolute;display: none;z-index: 101;filter:alpha(OPACITY=98);margin:-10px,0px,0px,50px;}
+.showMessegetable{background-color: #FFCC99;}
+.lblAllFunctionTexttd{font-size: 12px;padding-left:5px;padding-right: 2px;}
+.divInventoryitemr2{padding-left:2px; padding-top:3px !important;padding-top:3px;height:19px !important;height:24px;}
+.divbuttom{ padding-bottom:20px}
+.checkdiv{ cursor:hand;}
+.divuc_Pagings{ width:670px;}
+.butAdd{text-decoration:none;color:#fff; background:#555555; padding-top:6px; padding-bottom:6px;
+      width:94px; background-repeat:no-repeat; text-align:center; margin-top:20px; margin-bottom:10px;}
+/*===============ucInventory.ascx=============*/
+                         
+                         
+                         
+
+/*===================ucManufacturers.ascx================*/
+.brand{ width:700px; margin:auto; margin-top:30px;}
+.brand .ul{ width:700px; height:40px; border-left:solid 1px #ccc; border-top:solid 1px #ccc; margin:0; padding:0;}
+.brand .ul li{ float:left; list-style:none; width:45px; height:40px; border-right:solid 1px #ccc; line-height:40px; border-bottom:solid 1px #ccc;}
+.brand .ul li a{ color:#717171; width:45px; height:40px; line-height:40px;}
+.brand .ul li a:hover{width:45px; height:40px; border-bottom:solid 3px #0081d5; color:#0081d5; display:block; line-height:40px;}
+.ucBrandTit{width:698px; border:solid 1px #ccc; border-bottom:none; height:40px; line-height:40px; vertical-align:middle;border-bottom:solid 3px #fff;}
+.ucBrandTit a div{ width:768px; height:40px;}
+.ucBrandTit a{ color:#0081d5;}
+.ucBrandTit a:hover{ width:698px; height:40px; display:block; border-bottom:solid 3px #0081d5; }
+.brand dl{ margin-top:30px; width:768px;}
+.brand dl .dtTit{ width:700px; height:40px; background-color:#f5f5f5; border:solid 1px #ccc; line-height:40px; color:#a9a9a9; text-align:left; font-size:14px; margin-bottom:30px;}
+.brand dl .dtTit p{ float:left; font-size:40px; line-height:40px; margin-left:40px; font-family:Arial, Helvetica, sans-serif;}
+.brand dl .dtItem{ width:698px; overflow:auto;  height:1%; margin-bottom:30px;}
+.brand dl .dtItem div{ float:left; width:150px; border:solid 1px #ccc;height:72px;margin:0px 20px 10px 20px;}                         
+.brand dl .dtItem div img{ vertical-align:middle;}
+
+.brand  .DDLBrand{ width:700px; border-top:solid 1px #ccc; border-left:solid 1px #ccc; margin-bottom:30px;}
+.brand  .DDLBrand td{ border-bottom:solid 1px #ccc; border-right:solid 1px #ccc; text-align:center; height:70px; vertical-align:middle; line-height:70px;}
+.brand  .DDLBrand td img{ margin:auto; vertical-align:middle;}
+
+
+/*============ucContact.ascx============*/
+.mapMain{height:300px; margin:auto; width:740px; margin-top:40px;}
+.ucContactBDIV{ width:700px; height:auto; margin:auto; margin-top:0px; padding-bottom:0px; line-height:26px; font-size:16px;}
+.ucContactBDIV img{ vertical-align:middle; padding-right:10px;}
+.ucContactTB{ width:650px;padding-bottom:40px;}
+.ucContactTB .TitLTD{ width:285px; height:40px; font-weight:bold; background:#0586DA; color:#fff; font:14px/1.5 arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif;}
+.ucContactTB .TitRTD{width:285px; height:40px; font-weight:bold;background:#D5D5D5; color:#fff; font:14px/1.5 arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif;}
+.ucContactItemTD{ text-align:left; font:14px/1.5 arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif; line-height:26px; color:#7C7C7C;}
+.ucContactItemTD a{ text-decoration:none; color:#7C7C7C}
+.ucContactItemTD a:hover{ text-decoration:underline;}
+.ucContactRTB{ width:570px; margin-bottom:40px;}
+.ucContactRTB .TitTD{ height:40px; font-weight:bold; background:#0586DA; color:#fff; font:14px/1.5 arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif;}
+.RTBtd{ text-align:left; text-indent:10px; border-left:solid 4px #0586DA; border-right:solid 4px #0586DA;font:14px/1.5 arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif;  color:#7c7c7c; padding-top:20px;}
+.RTBltd{ text-indent:10px; border-left:solid 4px #0586DA; font:14px/1.5 arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif;  color:#7c7c7c; padding-top:20px;}
+.RTBrtd{ text-align:left; vertical-align:middle; text-indent:5px;  border-right:solid 4px #0586DA;font:14px/1.5 arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif;  color:#7c7c7c; padding-top:20px;}
+.RTBrtd input{ height:30px;}
+.RTBrtd .CheckBOX{ vertical-align:middle; }
+.borderBottom{ border-bottom:solid 4px #0586DA; line-height:40px;}
+
+
+
+
+/*=======ucUserInfo.ascx======*/
+.tdleftpage{width:150px;height:24px;text-align:right;vertical-align:middle; white-space:nowrap}
+.tdrightpage{height:24px; vertical-align:middle ;padding-left:3px;}
+.UserInfoA{color:#000; width:645px; margin-top:10px; padding-bottom:30px;}
+.UserInfoB{margin-left:20px; margin-top:10px;}
+.UserInfoC{padding-bottom:5px;  color:#ED3D00}
+.UserInfoD{ width:20%;height: 24px; vertical-align:bottom;}
+.UserInfoE{color:red; font-weight:normal;}
+.UserInfoF{ width:20%;padding-left:30px; vertical-align:bottom;}
+.UserInfoG{height:24px;}
+.UserInfoH{width:280px;}
+.UserInfoI{padding-left:30px; height:24px;}
+.UserInfoJ{width:200px;}
+
+.UserInfoLtd{ width:150px; text-align:left; vertical-align:top; height:40px; line-height:30px;}
+.UserInfoRtd{ width:300px; text-align:left;height:40px; line-height:40px;}
+/*=======ucUserInfo.ascx======*/
+
+/*===============ucOrderQuotation.ascx========*/
+.OrderA{width:508px; margin-left:20px;}
+.OrderB{ width:540px !important;  width:550px; height:28px; font-size:14px; font-family:Times New Roman; 
+        font-weight:bold; line-height:28px; padding-left:10px;}
+.tabtops{ width:745px;height:30px;color:#000;}
+.sbtn{color:White; padding-top:4px;}
+.sbtns{cursor: pointer; padding-top: 5px;}
+.tltle{border:1px solid #E0DCD0;vertical-align:middle; color:#000;  border-left:0;    }
+.tltles{border:1px solid #E0DCD0;vertical-align:middle; color:#000;  border-left:0; border-top:0; padding:5px;}
+.center{ text-align:center;}
+.divtops{ width:690px; margin-top:10px;}
+.divuserinfo{ width:690px;}
+.divqt{margin:0 0 20px 0; width:690px}
+.tdOrder{width: 228px;vertical-align: middle;font-weight: bolder;font-family: Arial;font-size: 14px;}
+.bootdiv{width:530px; margin-top:5px;  margin-left:10px;}
+.bootable{width:745px;height:30px; margin-left:20px !important; margin-left:10px; }
+.tdQuotation{width: 250px;vertical-align: middle;font-weight: bolder;font-family: Arial;padding-left:10px;color:#fff; }
+.tdQuotationNo{font-weight: bold; color: #000;}
+.Quotation1{border: 1px solid #E0DCD0;color: #6c6c6c; width:745px; background:#fff; border-top:0}
+.tdQuotationBtns{vertical-align: bottom}
+.tditemQuotation{text-align: center; border:1px solid #E0DCD0; vertical-align:middle; border-left:0;}
+.tditemQuotations{text-align: center; border:1px solid #E0DCD0; vertical-align:middle; border-left:0; border-bottom:0}
+.tdRequestQty{text-align: right;border-right-style:none;}
+.tdTargetPrice{text-align: right;border-right: 0px solid; display:none}
+.tdQuotationSubmit{text-align:right;padding-top: 5px; padding-right:10px; padding-bottom:5px;}
+.SendConLink{ background:url(http://www.connect-components.com/Image/icon/btn_search.jpg); background-color:#E9E9E9;
+               width:120px; height:24px; color:#000; text-decoration:none; text-align:center; line-height:24px;}
+.SendConLinkSEL{ background:url(http://www.connect-components.com/Image/icon/btn_search.jpg); background-color:#434343;
+               width:120px; height:24px; color:#FFF; text-decoration:none; text-align:center; line-height:24px;}               
+.SendConLinks{ background:url(http://www.connect-components.com/Image/icon/bt_continue.gif); width:70px; height:21px; color:White;
+                text-decoration:none; text-align:center; line-height:24px; display:block;}
+.tbltoptr{background: #434343;}
+.tdQuotationSpreads{ width:1%; cursor: pointer; height: 5px; padding-top: 7px; padding-right: 5px;}
+.tdQuotationHides{cursor: pointer; display: none;height: 5px; padding-top: 7px; padding-right: 5px; text-align: right;}
+.linkbuttonta{padding: 5px 0 5px 10px;}
+.linkbuttontb{padding: 5px 0 5px 20px;}
+.linkbuttontc{ color:#0186c9}
+.linkbuttontd{cursor: pointer;}
+/*===============ucOrderQuotation.ascx========*/
+
+
+
+/*=======ucStock.ascx========*/
+.ucStockItb{ width:700px;}
+.ucStockItb td{ width:33%; text-align:center; padding-top:20px;}
+.ucStockItb td .child{ background-image:url(http://www.connect-components.com/Images/icon/icon_cate.jpg); background-repeat:no-repeat; background-position:10px center; text-align:left; text-indent:20px;}
+.ucStockItb td .child a{ color:#18486c; font-size:14px;}
