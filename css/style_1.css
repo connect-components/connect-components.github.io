@@ -8,7 +8,7 @@ body#main-body{ text-align:center; width:100%; margin:0; padding:0;}
 .mastTOPMid a{ color:#000; font-size:18px; text-decoration:none; float:left; vertical-align:bottom;}
 .mastTOPMid a:hover{ color:#000; text-decoration:none;}
 .mastTOPMid img{ border:0;}
-.mastBottom{ width:100%; height:264px; background-image:url(../1139322/image/icon/bg_footer.png); margin-top:-8px; z-index:10; position:relative;}
+.mastBottom{ width:100%; height:264px; background-image:url(../1139322/Image/icon/bg_footer.png); margin-top:-8px; z-index:10; position:relative;}
 
 
 /*====ucLangSelect.ascx============*/
