@@ -3,10 +3,10 @@ form{margin:0;padding:0; width:100%;}
 img,a img{border:0 none;}
 body{background-color:#FFF;margin:0;padding:0;font-family:Arial,Helvetica,sans-serif;font-size:12px; width:100%;}
 body#main-body{ text-align:center; width:100%; margin:0; padding:0;}
-.mastTOP{ width:100%; height:66px; background-image:url(../1139322/Image/icon/bg_top.gif);}
+.mastTOP{ width:100%; height:66px;}
 .mastTOPMid{ width:1200px; height:66px; margin:auto;}
-.mastTOPMid a{ color:#fff; font-size:18px; text-decoration:none; float:left; vertical-align:bottom;}
-.mastTOPMid a:hover{ color:#fff; text-decoration:none;}
+.mastTOPMid a{ color:#000; font-size:18px; text-decoration:none; float:left; vertical-align:bottom;}
+.mastTOPMid a:hover{ color:#000; text-decoration:none;}
 .mastTOPMid img{ border:0;}
 .mastBottom{ width:100%; height:264px; background-image:url(../1139322/image/icon/bg_footer.png); margin-top:-8px; z-index:10; position:relative;}
 
@@ -23,14 +23,14 @@ body#main-body{ text-align:center; width:100%; margin:0; padding:0;}
 #imenus0{ margin:auto; width:530px;}
 #imenus0 .ParentLI{float:left;list-style:none;text-align:center;cursor:pointer; width:122px; text-align:center; }
 #imenus0 .ParentLI a{text-decoration:none; text-transform:uppercase; font-size:16px;
-                       font-family:arial, "Microsoft Yahei","Hiragino Sans GB",sans-serif;color:#fff;line-height:66px; }
+                       font-family:arial, "Microsoft Yahei","Hiragino Sans GB",sans-serif;color:#000;line-height:66px; }
 #imenus0 .ParentLI a:hover{color:#fff; }
 #imenus0 .ParentLI .imsc .imsubc ul li a{ color:#fff; height:30px; line-height:30px; font-size:12px;  font-weight:normal;}
 #imenus0 .ParentLI .imsc .imsubc ul li a:hover{ color:#000}
 
 #imenus0 .ParentSelLI{float:left;list-style:none;text-align:center;cursor:pointer; height:66px; width:120px; text-align:center; }
 #imenus0 .ParentSelLI a{text-decoration:none;  font-size:16px; text-transform:uppercase;
-                        font-family:arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif;color:#fff;line-height:66px;}
+                        font-family:arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif;color:#000;line-height:66px;}
 #imenus0 .ParentSelLI .imsc .imsubc ul li a{ color:#fff; height:30px; line-height:30px;font-size:12px; font-weight:normal;}
 #imenus0 .ParentSelLI .imsc .imsubc ul li a:hover{color:#000}
 
@@ -375,3 +375,10 @@ body#main-body{ text-align:center; width:100%; margin:0; padding:0;}
 .ucStockItb td{ width:33%; text-align:center; padding-top:20px;}
 .ucStockItb td .child{ background-image:url(http://www.connect-components.com/Images/icon/icon_cate.jpg); background-repeat:no-repeat; background-position:10px center; text-align:left; text-indent:20px;}
 .ucStockItb td .child a{ color:#18486c; font-size:14px;}
+
+.logo{
+    padding-top:15px;
+    padding-right:5px;
+    width:80px;
+    vertical-align: middle;
+}
